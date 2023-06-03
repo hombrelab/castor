@@ -1,0 +1,2075 @@
+{
+"occasions": [
+  {
+    "ServiceNumber": 10012,
+    "BuildYear": 2022,
+    "RegistrationNumber": null,
+    "Make": "Energica",
+    "Type": "Ego+",
+    "Title": "Energica Ego+",
+    "MainGroupCode": "H010",
+    "MainGroupFixedName": "Motoren",
+    "MainGroup": "Motoren",
+    "SubGroupCode": "14",
+    "SubGroupFixedName": "Elektrisch",
+    "SubGroup": "Elektrisch",
+    "Counter1": 10,
+    "Counter2": 10,
+    "Prices": {
+      "PriceType": "FixedPrice",
+      "New": null,
+      "NewIsIncVat": false,
+      "Showroom": 31780,
+      "ShowroomIsIncVat": true,
+      "Action": null,
+      "ActionIsIncVat": false,
+      "TakeAway": null,
+      "TakeAwayIsIncVat": false,
+      "Trade": null,
+      "TradeIsIncVat": false,
+      "Export": null,
+      "ExportIsIncVat": false,
+      "AllowBidding": false,
+      "MinimalBid": null
+    },
+    "Color": null,
+    "IsUsed": false,
+    "IsVatMargin": false,
+    "AdditionalInformation": "$0",
+    "MultilanguageTexts": [
+      {
+        "IsDefault": true,
+        "Language": "NL",
+        "Description": "De Energica Ego+ is de ultieme elektrische sportieve motorfiets.\r\n\r\nIn 2018 koos Dorna voor Energica als exclusief leverancier voor de FIM Enel MotoE\u2122 World Cup. Deze volledig elektrische races worden gereden op de circuit versie van deze Ego. Je kunt er dan ook voor kiezen om hem geschikt te maken voor het circuit met de optionele Corsa Clienti kit.\r\n\r\nOmdat je de motorfiets aan de snellader kunt laden hoef je geen kabel c.q. thuislader mee te nemen. Standaard heb je 4 rijmodi, ABS en Traction control.",
+        "ConfigurationDescription": null
+      }
+    ],
+    "MainLanguage": "NL",
+    "Url": null,
+    "ConfigurationDescription": "Ego+ Metal Black\r\n\r\nVermogen\t171 HP/126 KW\r\nKoppel\t215 NM\r\nAcceleratie 0-100 KM/u\t2,8 sec\r\nTopsnelheid\t240 km/uur\r\nBereik stad\t420\r\nBereik buiten bebouwde kom\t246\r\nBereik snelheid\t198\r\nGewicht\t260 kg\r\nLengte\t2,140 m\r\nWielbasis\t1,465 m\r\nHoogte\t1,152 m\r\nZadelhoogte\t0,81 m\r\nThuislaadkabel\t345,00 Euro\r\nRekbare beschermhoes binnen\t220,00 Euro\r\nAchterwielsteun met adapters\t105,00 Euro\r\nUSB poort\t165,00 Euro\r\nTorque\t215 NM\r\nAcceleratie 0-100 KM/u\t2,8 sec\r\nTopsnelheid\t240 km/uur\r\nBereik stad\t420\r\nBereik buiten bebouwde kom\t246\r\nBereik snelheid\t198\r\nGewicht\t260 kg\r\nLengte\t2,140 m\r\nWielbasis\t1,465 m\r\nHoogte\t1,152 m\r\nZadelhoogte\t0,81 m\r\nThuislaadkabel\t345,00 Euro\r\nRekbare beschermhoes binnen\t220,00 Euro\r\nAchterwielsteun met adapters\t105,00 Euro\r\nUSB poort\t165,00 Euro",
+    "WarrantyCode": "JA",
+    "WarrantyDescription": "Ja",
+    "Seller": 0,
+    "Inspections": [],
+    "Settings": {
+      "AddUnmappedFieldsAsText": true
+    },
+    "Websites": [
+      {
+        "Code": "MOC",
+        "SiteCode": "motoroccasion",
+        "Description": "MotorOccasion",
+        "TableCode": 3,
+        "CommunicationCode": 20
+      }
+    ],
+    "Images": [
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652357736-Lp_ZEEv7u-Jvg-ncjMpECViDAZs/dossier-mach/ENERGICA_10012/10012-001_Motoroccasion_EGO_1.jpg",
+        "LastModifiedUtc": "2022-05-12T12:15:36"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652357737-h3_-YZ-Tut1XP_M1pBxMGLcY2NE/dossier-mach/ENERGICA_10012/10012-002_Motoroccasion_EGO_2.jpg",
+        "LastModifiedUtc": "2022-05-12T12:15:37"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652357738-lMNCWmnAM1UzQa7xyF6zWT63G58/dossier-mach/ENERGICA_10012/10012-003_Motoroccasion_EGO_3.jpg",
+        "LastModifiedUtc": "2022-05-12T12:15:38"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652357739-xtiadr4zBK2MKTxYejiFX5CQOvQ/dossier-mach/ENERGICA_10012/10012-004_Motoroccasion_EGO_4.jpg",
+        "LastModifiedUtc": "2022-05-12T12:15:39"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652357740-vHGgvsGkH-XONKLhz93Vo8yfNrg/dossier-mach/ENERGICA_10012/10012-005_Motoroccasion_EGO_5.jpg",
+        "LastModifiedUtc": "2022-05-12T12:15:40"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652357741-jMk5H6j777FOEBoP8zlphiOlVw8/dossier-mach/ENERGICA_10012/10012-006_Motoroccasion_EGO_6.jpg",
+        "LastModifiedUtc": "2022-05-12T12:15:41"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652357742-oS0gSB6jeEfzFaXro00MrwAbG9I/dossier-mach/ENERGICA_10012/10012-007_Motoroccasion_EGO_7.jpg",
+        "LastModifiedUtc": "2022-05-12T12:15:42"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652357743-OcLgyUzshV53PUsfjANJFODTyQc/dossier-mach/ENERGICA_10012/10012-008_Motoroccasion_EGO_8.jpg",
+        "LastModifiedUtc": "2022-05-12T12:15:43"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652357744-soUXKxwBKBVQi4xEEO12aWPltAw/dossier-mach/ENERGICA_10012/10012-009_Motoroccasion_EGO_9.jpg",
+        "LastModifiedUtc": "2022-05-12T12:15:44"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652357745-_MP8JNM-SbmyAFeHaWcobyX-jU8/dossier-mach/ENERGICA_10012/10012-010_Motoroccasion_EGO_10.jpg",
+        "LastModifiedUtc": "2022-05-12T12:15:45"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652357745-Jn_F0xDEHvGAXAxAJ7LE-rqJ6p4/dossier-mach/ENERGICA_10012/10012-011_Motoroccasion_EGO_11.jpg",
+        "LastModifiedUtc": "2022-05-12T12:15:45"
+      }
+    ],
+    "HexonConfigurationItems": [
+      {
+        "ElementCode": "H161",
+        "Description": "Vermogen (kW)",
+        "ValueCode": null,
+        "Value": "126"
+      },
+      {
+        "ElementCode": "H160",
+        "Description": "Vermogen (pk)",
+        "ValueCode": null,
+        "Value": "171"
+      },
+      {
+        "ElementCode": "H140",
+        "Description": "Geschikt voor rijbewijs",
+        "ValueCode": null,
+        "Value": "A"
+      },
+      {
+        "ElementCode": "H205",
+        "Description": "Nieuw/Gebruikt",
+        "ValueCode": "NIEUW",
+        "Value": "Nieuw"
+      },
+      {
+        "ElementCode": "H208",
+        "Description": "Financiering mogelijk",
+        "ValueCode": "JA",
+        "Value": "Ja"
+      }
+    ],
+    "OtherConfigurationItems": [
+      {
+        "ElementCode": "1023",
+        "Description": "Garantie",
+        "ValueCode": null,
+        "Value": "Ja"
+      }
+    ]
+  },
+  {
+    "ServiceNumber": 10013,
+    "BuildYear": 2022,
+    "RegistrationNumber": null,
+    "Make": "Energica",
+    "Type": "Eva Ribelle RS",
+    "Title": "Energica Eva Ribelle RS",
+    "MainGroupCode": "H010",
+    "MainGroupFixedName": "Motoren",
+    "MainGroup": "Motoren",
+    "SubGroupCode": "14",
+    "SubGroupFixedName": "Elektrisch",
+    "SubGroup": "Elektrisch",
+    "Counter1": 10,
+    "Counter2": 10,
+    "Prices": {
+      "PriceType": "FixedPrice",
+      "New": null,
+      "NewIsIncVat": false,
+      "Showroom": 33486,
+      "ShowroomIsIncVat": true,
+      "Action": null,
+      "ActionIsIncVat": false,
+      "TakeAway": null,
+      "TakeAwayIsIncVat": false,
+      "Trade": null,
+      "TradeIsIncVat": false,
+      "Export": null,
+      "ExportIsIncVat": false,
+      "AllowBidding": false,
+      "MinimalBid": null
+    },
+    "Color": null,
+    "IsUsed": false,
+    "IsVatMargin": false,
+    "AdditionalInformation": "Wil je ervaren hoe het is om elektrisch te rijden (anders te rijden) met een sportieve zit dan is deze Ribelle de motorfiets voor jou\u2026\r\n\r\nOmdat je de motorfiets aan de snellader kunt laden hoef je geen kabel c.q. thuislader mee te nemen. Standaard heb je 4 rijmodi, ABS en Traction control.",
+    "MultilanguageTexts": [
+      {
+        "IsDefault": true,
+        "Language": "NL",
+        "Description": "Wil je ervaren hoe het is om elektrisch te rijden (anders te rijden) met een sportieve zit dan is deze Ribelle de motorfiets voor jou\u2026\r\n\r\nOmdat je de motorfiets aan de snellader kunt laden hoef je geen kabel c.q. thuislader mee te nemen. Standaard heb je 4 rijmodi, ABS en Traction control.",
+        "ConfigurationDescription": null
+      }
+    ],
+    "MainLanguage": "NL",
+    "Url": null,
+    "ConfigurationDescription": "Energica Ribelle RS Stealth Grey\r\n\r\nVerdere opties van deze Ribelle RS zijn:\r\nKeyless\r\nHeated Handgrips\r\nMatte Black Frame\r\n\r\nVermogen\t171 HP/126 KW\r\nTorque\t215 NM\r\nAcceleratie 0-100 KM/u\t2,6 sec\r\nTopsnelheid\t200 km/uur\r\nBereik stad\t420\r\nBereik buiten bebouwde kom\t246\r\nBereik snelheid\t198\r\nRS Firmware\tstandaard\r\nRegina 15/44 525 ketting\tstandaard\r\nGewicht\t260 kg\r\nLengte\t2,140 m\r\nWielbasis\t1,465 m\r\nHoogte\t1,152 m\r\nZadelhoogte\t0,79 m\r\nThuislaadkabel\tstandaard\r\nUSB poort\tstandaard",
+    "WarrantyCode": null,
+    "WarrantyDescription": null,
+    "Seller": 0,
+    "Inspections": [],
+    "Settings": {
+      "AddUnmappedFieldsAsText": true
+    },
+    "Websites": [
+      {
+        "Code": "MOC",
+        "SiteCode": "motoroccasion",
+        "Description": "MotorOccasion",
+        "TableCode": 3,
+        "CommunicationCode": 20
+      }
+    ],
+    "Images": [
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1657960040-ZjEamgzO38DIKJhmsTQswfm7Zf0/dossier-mach/ENERGICA_10013/10013-001_Motoroccasion_RIBELLE_1.jpg",
+        "LastModifiedUtc": "2022-07-16T08:27:20"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1657960043-IobKe31yqq8yvxqGi-8g1174WbU/dossier-mach/ENERGICA_10013/10013-002_Motoroccasion_RIBELLE_2.jpg",
+        "LastModifiedUtc": "2022-07-16T08:27:23"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1657960046-Zwn5wC77FfuBmec1mgrQwn37qIw/dossier-mach/ENERGICA_10013/10013-003_Motoroccasion_RIBELLE_3.jpg",
+        "LastModifiedUtc": "2022-07-16T08:27:26"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1657960048-qpYFdTyOAUnh_J6fbvbwFxGu3Ak/dossier-mach/ENERGICA_10013/10013-004_Motoroccasion_RIBELLE_4.jpg",
+        "LastModifiedUtc": "2022-07-16T08:27:28"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1657960051-yO-gZcrK-_kXYkFuiw2yGdBXnmM/dossier-mach/ENERGICA_10013/10013-005_Motoroccasion_RIBELLE_5.jpg",
+        "LastModifiedUtc": "2022-07-16T08:27:31"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1657960052-N1p7k9AljMTpFd9bZTZvieHOukM/dossier-mach/ENERGICA_10013/10013-006_Motoroccasion_RIBELLE_6.jpg",
+        "LastModifiedUtc": "2022-07-16T08:27:32"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1657960053-b7fqnJWtoq3qhpsM07_GMiWqmKg/dossier-mach/ENERGICA_10013/10013-007_Motoroccasion_RIBELLE_7.jpg",
+        "LastModifiedUtc": "2022-07-16T08:27:33"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1657960054-ymc8kA8qKuccy0rPyidaIwJgBrQ/dossier-mach/ENERGICA_10013/10013-008_Motoroccasion_RIBELLE_8.jpg",
+        "LastModifiedUtc": "2022-07-16T08:27:34"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1657960057-Q1LM120nonNhs9O5qdcvWkgkYks/dossier-mach/ENERGICA_10013/10013-009_Motoroccasion_RIBELLE_9.jpg",
+        "LastModifiedUtc": "2022-07-16T08:27:37"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1657960058-1BxnXrQYkIuL2RvA-FI54MjrHag/dossier-mach/ENERGICA_10013/10013-010_Motoroccasion_RIBELLE_10.jpg",
+        "LastModifiedUtc": "2022-07-16T08:27:38"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1657960058-QXzf-CqH4OjehrISazxPsSObacM/dossier-mach/ENERGICA_10013/10013-011_Motoroccasion_RIBELLE_11.jpg",
+        "LastModifiedUtc": "2022-07-16T08:27:38"
+      }
+    ],
+    "HexonConfigurationItems": [
+      {
+        "ElementCode": "H161",
+        "Description": "Vermogen (kW)",
+        "ValueCode": null,
+        "Value": "126"
+      },
+      {
+        "ElementCode": "H160",
+        "Description": "Vermogen (pk)",
+        "ValueCode": null,
+        "Value": "171"
+      },
+      {
+        "ElementCode": "H140",
+        "Description": "Geschikt voor rijbewijs",
+        "ValueCode": null,
+        "Value": "A"
+      },
+      {
+        "ElementCode": "H205",
+        "Description": "Nieuw/Gebruikt",
+        "ValueCode": "NIEUW",
+        "Value": "Nieuw"
+      },
+      {
+        "ElementCode": "H208",
+        "Description": "Financiering mogelijk",
+        "ValueCode": "JA",
+        "Value": "Ja"
+      }
+    ],
+    "OtherConfigurationItems": [
+      {
+        "ElementCode": "1023",
+        "Description": "Garantie",
+        "ValueCode": null,
+        "Value": "Ja"
+      }
+    ]
+  },
+  {
+    "ServiceNumber": 10018,
+    "BuildYear": 2022,
+    "RegistrationNumber": "21MRVN",
+    "Make": "Energica",
+    "Type": "EsseEsse9+ RS",
+    "Title": "Energica EsseEsse9+ RS",
+    "MainGroupCode": "H010",
+    "MainGroupFixedName": "Motoren",
+    "MainGroup": "Motoren",
+    "SubGroupCode": "14",
+    "SubGroupFixedName": "Elektrisch",
+    "SubGroup": "Elektrisch",
+    "Counter1": 10,
+    "Counter2": 10,
+    "Prices": {
+      "PriceType": "FixedPrice",
+      "New": null,
+      "NewIsIncVat": false,
+      "Showroom": 34314,
+      "ShowroomIsIncVat": true,
+      "Action": null,
+      "ActionIsIncVat": false,
+      "TakeAway": null,
+      "TakeAwayIsIncVat": false,
+      "Trade": null,
+      "TradeIsIncVat": false,
+      "Export": null,
+      "ExportIsIncVat": false,
+      "AllowBidding": false,
+      "MinimalBid": null
+    },
+    "Color": null,
+    "IsUsed": false,
+    "IsVatMargin": false,
+    "AdditionalInformation": "De EsseEsse9 is de 100% elektrische urban motorfiets van Energica.\r\n\r\nIs rechtop zittend genieten van de motor en de omgeving jouw ding dan is dit jouw motor.\r\n\r\nOmdat je de motorfiets aan de snellader kunt laden hoef je geen kabel c.q. thuislader mee te nemen. Standaard heb je 4 rijmodi, ABS en Traction control.",
+    "MultilanguageTexts": [
+      {
+        "IsDefault": true,
+        "Language": "NL",
+        "Description": "De EsseEsse9 is de 100% elektrische urban motorfiets van Energica.\r\n\r\nIs rechtop zittend genieten van de motor en de omgeving jouw ding dan is dit jouw motor.\r\n\r\nOmdat je de motorfiets aan de snellader kunt laden hoef je geen kabel c.q. thuislader mee te nemen. Standaard heb je 4 rijmodi, ABS en Traction control.",
+        "ConfigurationDescription": null
+      }
+    ],
+    "MainLanguage": "NL",
+    "Url": null,
+    "ConfigurationDescription": "+RS Sunrise Red\r\nVerdere opties van deze EsseEsse9+ RS zijn:\r\n\r\nKeyless\r\nHeated Handgrips\r\nÖhlins front form \u0026 Öhlins rear shock absorber\r\nSleek Carbon front mudguard\r\nSleek Carbon rear mudguard and chain guard\r\nSleek Carbon battery covers\r\nVermogen\t109 HP/80 KW\r\nTorque\t200 NM\r\nAcceleratie 0-100 KM/u\t2,8 sec\r\nTopsnelheid\t200 km/uur\r\nBereik stad\t420\r\nBereik buiten bebouwde kom\t246\r\nBereik snelheid\t198\r\nRS Firmware\tstandaard\r\nRS Stripes\tstandaard\r\nRegina 15/44 525 ketting\tstandaard\r\nGewicht\t260 kg\r\nLengte\t2,140 m\r\nWielbasis\t1,465 m\r\nHoogte\t1,152 m\r\nZadelhoogte\t0,79 m\r\nThuislaadkabel\tstandaard\r\nRekbare beschermhoes binnen\tstandaard\r\nAchterwielsteun met adapters\tstandaard\r\nUSB poort\tstandaard",
+    "WarrantyCode": null,
+    "WarrantyDescription": null,
+    "Seller": 0,
+    "Inspections": [],
+    "Settings": {
+      "AddUnmappedFieldsAsText": true
+    },
+    "Websites": [
+      {
+        "Code": "MOC",
+        "SiteCode": "motoroccasion",
+        "Description": "MotorOccasion",
+        "TableCode": 3,
+        "CommunicationCode": 20
+      }
+    ],
+    "Images": [
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652359018-IXQ3NEQuFtELYXY31cGktI1KOSU/dossier-mach/ENERGICA_10018/10018-001_Motoroccasion_ESSE_SUNRISE_RED_1.jpg",
+        "LastModifiedUtc": "2022-05-12T12:36:58"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652359019-xkYujozc49z11Vk4gVMECc0np0E/dossier-mach/ENERGICA_10018/10018-002_Motoroccasion_ESSE_SUNRISE_RED_2.jpg",
+        "LastModifiedUtc": "2022-05-12T12:36:59"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652359020--yOsK_Yn4_bPByFptxpAoAdTryA/dossier-mach/ENERGICA_10018/10018-003_Motoroccasion_ESSE_SUNRISE_RED_3.jpg",
+        "LastModifiedUtc": "2022-05-12T12:37:00"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652359021-4JU2qR2nZVqW043CqWVri77b_1g/dossier-mach/ENERGICA_10018/10018-004_Motoroccasion_ESSE_SUNRISE_RED_4.jpg",
+        "LastModifiedUtc": "2022-05-12T12:37:01"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652359022-D2Y2kQIJ56fGp5LqRclFvsE7T3I/dossier-mach/ENERGICA_10018/10018-005_Motoroccasion_ESSE_SUNRISE_RED_5.jpg",
+        "LastModifiedUtc": "2022-05-12T12:37:02"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652359022-u0okVCExqZ9u64H3dBrbjmp9NUs/dossier-mach/ENERGICA_10018/10018-006_Motoroccasion_ESSE_SUNRISE_RED_6.jpg",
+        "LastModifiedUtc": "2022-05-12T12:37:02"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652359022-ksVgv9k0DJqhb6Y0UQHxL6JU_xg/dossier-mach/ENERGICA_10018/10018-007_Motoroccasion_ESSE_SUNRISE_RED_7.jpg",
+        "LastModifiedUtc": "2022-05-12T12:37:02"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652359023-kB9I111c9UTbF6sQ7VvY1NC9Ivk/dossier-mach/ENERGICA_10018/10018-008_Motoroccasion_ESSE_SUNRISE_RED_8.jpg",
+        "LastModifiedUtc": "2022-05-12T12:37:03"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652359024-tbLkv4nfKXDZejpO5_j2hqBjeUs/dossier-mach/ENERGICA_10018/10018-009_Motoroccasion_ESSE_SUNRISE_RED_9.jpg",
+        "LastModifiedUtc": "2022-05-12T12:37:04"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652359024-0CoBQ80tWfqFu7X3Tv_J3-mrXs8/dossier-mach/ENERGICA_10018/10018-010_Motoroccasion_ESSE_SUNRISE_RED_10.jpg",
+        "LastModifiedUtc": "2022-05-12T12:37:04"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652359025-OKzyhmfYa_S3YY2j56Y6-uYSF40/dossier-mach/ENERGICA_10018/10018-011_Motoroccasion_ESSE_SUNRISE_RED_11.jpg",
+        "LastModifiedUtc": "2022-05-12T12:37:05"
+      }
+    ],
+    "HexonConfigurationItems": [
+      {
+        "ElementCode": "H161",
+        "Description": "Vermogen (kW)",
+        "ValueCode": null,
+        "Value": "80"
+      },
+      {
+        "ElementCode": "H160",
+        "Description": "Vermogen (pk)",
+        "ValueCode": null,
+        "Value": "109"
+      },
+      {
+        "ElementCode": "H140",
+        "Description": "Geschikt voor rijbewijs",
+        "ValueCode": null,
+        "Value": "A"
+      },
+      {
+        "ElementCode": "H205",
+        "Description": "Nieuw/Gebruikt",
+        "ValueCode": "NIEUW",
+        "Value": "Nieuw"
+      },
+      {
+        "ElementCode": "H208",
+        "Description": "Financiering mogelijk",
+        "ValueCode": "JA",
+        "Value": "Ja"
+      }
+    ],
+    "OtherConfigurationItems": [
+      {
+        "ElementCode": "1023",
+        "Description": "Garantie",
+        "ValueCode": null,
+        "Value": "Ja"
+      }
+    ]
+  },
+  {
+    "ServiceNumber": 10022,
+    "BuildYear": 2022,
+    "RegistrationNumber": null,
+    "Make": "Energica",
+    "Type": "EsseEsse9+",
+    "Title": "Energica EsseEsse9+",
+    "MainGroupCode": "H010",
+    "MainGroupFixedName": "Motoren",
+    "MainGroup": "Motoren",
+    "SubGroupCode": "14",
+    "SubGroupFixedName": "Elektrisch",
+    "SubGroup": "Elektrisch",
+    "Counter1": 0,
+    "Counter2": 0,
+    "Prices": {
+      "PriceType": "FixedPrice",
+      "New": null,
+      "NewIsIncVat": false,
+      "Showroom": 27944,
+      "ShowroomIsIncVat": true,
+      "Action": null,
+      "ActionIsIncVat": false,
+      "TakeAway": null,
+      "TakeAwayIsIncVat": false,
+      "Trade": null,
+      "TradeIsIncVat": false,
+      "Export": null,
+      "ExportIsIncVat": false,
+      "AllowBidding": false,
+      "MinimalBid": null
+    },
+    "Color": null,
+    "IsUsed": false,
+    "IsVatMargin": false,
+    "AdditionalInformation": "De EsseEsse9 is de 100% elektrische urban motorfiets van Energica.\r\n\r\nIs rechtop zittend genieten van de motor en de omgeving jouw ding dan is dit jouw motor.\r\n\r\nOmdat je de motorfiets aan de snellader kunt laden hoef je geen kabel c.q. thuislader mee te nemen. Standaard heb je 4 rijmodi, ABS en Traction control.",
+    "MultilanguageTexts": [
+      {
+        "IsDefault": true,
+        "Language": "NL",
+        "Description": "De EsseEsse9 is de 100% elektrische urban motorfiets van Energica.\r\n\r\nIs rechtop zittend genieten van de motor en de omgeving jouw ding dan is dit jouw motor.\r\n\r\nOmdat je de motorfiets aan de snellader kunt laden hoef je geen kabel c.q. thuislader mee te nemen. Standaard heb je 4 rijmodi, ABS en Traction control.",
+        "ConfigurationDescription": null
+      }
+    ],
+    "MainLanguage": "NL",
+    "Url": null,
+    "ConfigurationDescription": "Energica EsseEsse9+ Riviera Green\r\nVerdere optie van deze EsseEsse9+ is:\r\n\r\nBelly Pan Riviera Green\r\n\r\nVermogen\t109 HP/80 KW\r\nTorque\t200 NM\r\nAcceleratie 0-100 KM/u\t3,0 sec\r\nTopsnelheid\t200 km/uur\r\nBereik stad\t420\r\nBereik buiten bebouwde kom\t246\r\nBereik snelheid\t198\r\nGewicht\t260 kg\r\nLengte\t2,140 m\r\nWielbasis\t1,465 m\r\nHoogte\t1,152 m\r\nZadelhoogte\t0,79 m\r\nThuislaadkabel\t345,00 Euro\r\nRekbare beschermhoes binnen\t220,00 Euro\r\nAchterwielsteun met adapters\t105,00 Euro\r\nUSB poort\tstandaard",
+    "WarrantyCode": null,
+    "WarrantyDescription": null,
+    "Seller": 0,
+    "Inspections": [],
+    "Settings": {
+      "AddUnmappedFieldsAsText": true
+    },
+    "Websites": [
+      {
+        "Code": "MOC",
+        "SiteCode": "motoroccasion",
+        "Description": "MotorOccasion",
+        "TableCode": 3,
+        "CommunicationCode": 20
+      }
+    ],
+    "Images": [
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652359095-Sm9OmjOomxTA7pMCn0571k_Ob6w/dossier-mach/ENERGICA_10022/10022-001_Motoroccasion_ESSE_RIVIERA_GREEN_1.jpg",
+        "LastModifiedUtc": "2022-05-12T12:38:15"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652359096-sr5yAxwWtDeR82-fVeXMcI2TIzI/dossier-mach/ENERGICA_10022/10022-002_Motoroccasion_ESSE_RIVIERA_GREEN_2.jpg",
+        "LastModifiedUtc": "2022-05-12T12:38:16"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652359097-g1sbmAalgsdZD2QAKOdHFSxlf8c/dossier-mach/ENERGICA_10022/10022-003_Motoroccasion_ESSE_RIVIERA_GREEN_3.jpg",
+        "LastModifiedUtc": "2022-05-12T12:38:17"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652359098-W-UOa_ZRn5GFf6YF1goc-Xq3RRg/dossier-mach/ENERGICA_10022/10022-004_Motoroccasion_ESSE_RIVIERA_GREEN_4.jpg",
+        "LastModifiedUtc": "2022-05-12T12:38:18"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652359099-U0Dl_PuNjrhVAhK7bQCLxdi__iM/dossier-mach/ENERGICA_10022/10022-005_Motoroccasion_ESSE_RIVIERA_GREEN_5.jpg",
+        "LastModifiedUtc": "2022-05-12T12:38:19"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652359100-AeEnfEP7PFtSUvAFhj6Q8uMEJJU/dossier-mach/ENERGICA_10022/10022-006_Motoroccasion_ESSE_RIVIERA_GREEN_6.jpg",
+        "LastModifiedUtc": "2022-05-12T12:38:20"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652359101-qgWw68fAnyA2ZsgOfgeJkncxTSQ/dossier-mach/ENERGICA_10022/10022-007_Motoroccasion_ESSE_RIVIERA_GREEN_7.jpg",
+        "LastModifiedUtc": "2022-05-12T12:38:21"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652359102-qoRrdfakX2LItomnuE2cCP-8dbI/dossier-mach/ENERGICA_10022/10022-008_Motoroccasion_ESSE_RIVIERA_GREEN_8.jpg",
+        "LastModifiedUtc": "2022-05-12T12:38:22"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652359102-kadePmUdXCsn7NJ4GdHOs97H4_w/dossier-mach/ENERGICA_10022/10022-009_Motoroccasion_ESSE_RIVIERA_GREEN_9.jpg",
+        "LastModifiedUtc": "2022-05-12T12:38:22"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652359103-ysyqMUtwf79xVKppGxnzo1n2vO0/dossier-mach/ENERGICA_10022/10022-010_Motoroccasion_ESSE_RIVIERA_GREEN_10.jpg",
+        "LastModifiedUtc": "2022-05-12T12:38:23"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1652359104-mTCz3umaNO5tltFazVkQWwOVsnc/dossier-mach/ENERGICA_10022/10022-011_Motoroccasion_ESSE_RIVIERA_GREEN_11.jpg",
+        "LastModifiedUtc": "2022-05-12T12:38:24"
+      }
+    ],
+    "HexonConfigurationItems": [
+      {
+        "ElementCode": "H161",
+        "Description": "Vermogen (kW)",
+        "ValueCode": null,
+        "Value": "80"
+      },
+      {
+        "ElementCode": "H160",
+        "Description": "Vermogen (pk)",
+        "ValueCode": null,
+        "Value": "109"
+      },
+      {
+        "ElementCode": "H140",
+        "Description": "Geschikt voor rijbewijs",
+        "ValueCode": null,
+        "Value": "A"
+      },
+      {
+        "ElementCode": "H205",
+        "Description": "Nieuw/Gebruikt",
+        "ValueCode": "NIEUW",
+        "Value": "Nieuw"
+      },
+      {
+        "ElementCode": "H208",
+        "Description": "Financiering mogelijk",
+        "ValueCode": "JA",
+        "Value": "Ja"
+      }
+    ],
+    "OtherConfigurationItems": [
+      {
+        "ElementCode": "1023",
+        "Description": "Garantie",
+        "ValueCode": null,
+        "Value": "Ja"
+      }
+    ]
+  },
+  {
+    "ServiceNumber": 10037,
+    "BuildYear": 2022,
+    "RegistrationNumber": null,
+    "Make": "Indian",
+    "Type": "FTR1200 Z Black A3",
+    "Title": "Indian FTR1200 Z Black A3",
+    "MainGroupCode": "H010",
+    "MainGroupFixedName": "Motoren",
+    "MainGroup": "Motoren",
+    "SubGroupCode": "17",
+    "SubGroupFixedName": "Nakedbike",
+    "SubGroup": "Nakedbike",
+    "Counter1": 0,
+    "Counter2": 0,
+    "Prices": {
+      "PriceType": "FixedPrice",
+      "New": null,
+      "NewIsIncVat": false,
+      "Showroom": 16590,
+      "ShowroomIsIncVat": true,
+      "Action": null,
+      "ActionIsIncVat": false,
+      "TakeAway": null,
+      "TakeAwayIsIncVat": false,
+      "Trade": null,
+      "TradeIsIncVat": false,
+      "Export": null,
+      "ExportIsIncVat": false,
+      "AllowBidding": false,
+      "MinimalBid": null
+    },
+    "Color": null,
+    "IsUsed": false,
+    "IsVatMargin": false,
+    "AdditionalInformation": "INDIAN FTR1200 Z BLACK\r\nDe moderne, eenkleurige matzwarte lak gaat samen met opvallende rode accenten, waaronder het Indian Motorcycle-logo op de tank, de biezen op de wielen en de achterveer die medeweggebruikers als laatste van je zien als je ze inhaalt.\r\n\r\nOP STRAATGEBRUIK AFGESTEMDE TOPPRESTATIES\r\nDe geraffineerde vloeistofgekoelde V-twin met een inhoud van 1203 cc levert een vermogen van 123 pk en een koppel van 120 Nm.\r\n\r\nEEN WENDBARE EN SPORTIEVE HANDLING\r\nDe rechte rijpositie en het laaggeplaatste zadel staan in combinatie met de 17 inch wielen garant voor een vertrouwenwekkend en nauwkeurig rijgedrag. De benzinetank is strategisch onder het zadel geplaatst. Dit resulteert in een lager zwaartepunt, een betere gewichtsverdeling en een ongeëvenaarde stabiliteit in bochten.\r\n\r\nTOONAANGEVENDE UITRUSTING EN AFWERKING\r\nMet zijn Brembo-remmen, Akrapovic-uitlaat en verstelbare Ohlins-wielophanging is de FTR een toonbeeld van kwaliteit, vakmanschap, traditie en power.",
+    "MultilanguageTexts": [
+      {
+        "IsDefault": true,
+        "Language": "NL",
+        "Description": "INDIAN FTR1200 Z BLACK\r\nDe moderne, eenkleurige matzwarte lak gaat samen met opvallende rode accenten, waaronder het Indian Motorcycle-logo op de tank, de biezen op de wielen en de achterveer die medeweggebruikers als laatste van je zien als je ze inhaalt.\r\n\r\nOP STRAATGEBRUIK AFGESTEMDE TOPPRESTATIES\r\nDe geraffineerde vloeistofgekoelde V-twin met een inhoud van 1203 cc levert een vermogen van 123 pk en een koppel van 120 Nm.\r\n\r\nEEN WENDBARE EN SPORTIEVE HANDLING\r\nDe rechte rijpositie en het laaggeplaatste zadel staan in combinatie met de 17 inch wielen garant voor een vertrouwenwekkend en nauwkeurig rijgedrag. De benzinetank is strategisch onder het zadel geplaatst. Dit resulteert in een lager zwaartepunt, een betere gewichtsverdeling en een ongeëvenaarde stabiliteit in bochten.\r\n\r\nTOONAANGEVENDE UITRUSTING EN AFWERKING\r\nMet zijn Brembo-remmen, Akrapovic-uitlaat en verstelbare Ohlins-wielophanging is de FTR een toonbeeld van kwaliteit, vakmanschap, traditie en power.",
+        "ConfigurationDescription": null
+      }
+    ],
+    "MainLanguage": "NL",
+    "Url": null,
+    "ConfigurationDescription": "Motor\t\r\nMotortype\t\t\tVloeistofgekoelde V-Twin\r\nCilinderinhoud\t\t\t1203 cc\r\n\r\nPrestaties\t\r\nMaximaal koppel RPM\t\t6000 rpm\r\nMaximum koppel (95/1/EC NM)\t120 Nm\r\n\r\nFeatures\t\r\nKleur/graphics\t\t\tBlack Smoke\r\nFabrieksgarantie\t\t\t2 jaar\r\n\r\nStandaarduitrusting\t\t\t\r\nABS\r\nCruise Control\r\n\r\nElectronica\t\r\n4 inch instrumentenpaneel met analoge snelheidsmeter en digitale toerenteller, kilometerteller, dagteller, waarschuwingslampje brandstofniveau, waarschuwingslampje oververhitting",
+    "WarrantyCode": null,
+    "WarrantyDescription": null,
+    "Seller": 0,
+    "Inspections": [],
+    "Settings": {
+      "AddUnmappedFieldsAsText": true
+    },
+    "Websites": [
+      {
+        "Code": "MOC",
+        "SiteCode": "motoroccasion",
+        "Description": "MotorOccasion",
+        "TableCode": 3,
+        "CommunicationCode": 20
+      }
+    ],
+    "Images": [
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1659004831-qDzPIxmFU8gWoFGcvNYPNuLsiVA/dossier-mach/INDIAN_10037/10037-001_Motoroccasion_FTR_1.jpg",
+        "LastModifiedUtc": "2022-07-28T10:40:31"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1659004834-GiYoRdUazm_dKaG2GEmMkzLPIEY/dossier-mach/INDIAN_10037/10037-002_Motoroccasion_FTR_2.jpg",
+        "LastModifiedUtc": "2022-07-28T10:40:34"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1659004839-tNnt_Lb1kvt4zh6LYMgMb7Gp5Fg/dossier-mach/INDIAN_10037/10037-003_Motoroccasion_FTR_3.jpg",
+        "LastModifiedUtc": "2022-07-28T10:40:39"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1659004844-4gASHFFd5fwMUYoe3dQUnZcznYw/dossier-mach/INDIAN_10037/10037-004_Motoroccasion_FTR_4.jpg",
+        "LastModifiedUtc": "2022-07-28T10:40:44"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1659004849-ElCrpnNSVW0yPBhwMr2GUXmjQgs/dossier-mach/INDIAN_10037/10037-005_Motoroccasion_FTR_5.jpg",
+        "LastModifiedUtc": "2022-07-28T10:40:49"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1659004853-Q02DVplP0P5atV3iGtTz_oWWGrU/dossier-mach/INDIAN_10037/10037-006_Motoroccasion_FTR_6.jpg",
+        "LastModifiedUtc": "2022-07-28T10:40:53"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1659004856-KLEwcHQHGt3L4nW5Xe-l96W7A3o/dossier-mach/INDIAN_10037/10037-007_Motoroccasion_FTR_7.jpg",
+        "LastModifiedUtc": "2022-07-28T10:40:56"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1659004860-5g0E3DMkYn9Zsg-oD6LIRJ6SQ_I/dossier-mach/INDIAN_10037/10037-008_Motoroccasion_FTR_8.jpg",
+        "LastModifiedUtc": "2022-07-28T10:41:00"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1659004866-bkxNqtE3Br8rqTVZKz-9sXpH2O0/dossier-mach/INDIAN_10037/10037-009_Motoroccasion_FTR_9.jpg",
+        "LastModifiedUtc": "2022-07-28T10:41:06"
+      }
+    ],
+    "HexonConfigurationItems": [
+      {
+        "ElementCode": "H161",
+        "Description": "Vermogen (kW)",
+        "ValueCode": null,
+        "Value": "89"
+      },
+      {
+        "ElementCode": "H160",
+        "Description": "Vermogen (pk)",
+        "ValueCode": null,
+        "Value": "120"
+      },
+      {
+        "ElementCode": "H170",
+        "Description": "Cilinderinhoud (cc)",
+        "ValueCode": null,
+        "Value": "1203"
+      },
+      {
+        "ElementCode": "H140",
+        "Description": "Geschikt voor rijbewijs",
+        "ValueCode": null,
+        "Value": "A"
+      },
+      {
+        "ElementCode": "H205",
+        "Description": "Nieuw/Gebruikt",
+        "ValueCode": "NIEUW",
+        "Value": "Nieuw"
+      },
+      {
+        "ElementCode": "H208",
+        "Description": "Financiering mogelijk",
+        "ValueCode": "JA",
+        "Value": "Ja"
+      }
+    ],
+    "OtherConfigurationItems": [
+      {
+        "ElementCode": "1023",
+        "Description": "Garantie",
+        "ValueCode": null,
+        "Value": "Ja"
+      }
+    ]
+  },
+  {
+    "ServiceNumber": 10039,
+    "BuildYear": 2022,
+    "RegistrationNumber": null,
+    "Make": "Indian",
+    "Type": "Roadmaster Limited",
+    "Title": "Indian Roadmaster Limited",
+    "MainGroupCode": "H010",
+    "MainGroupFixedName": "Motoren",
+    "MainGroup": "Motoren",
+    "SubGroupCode": "22",
+    "SubGroupFixedName": "Toer",
+    "SubGroup": "Toer",
+    "Counter1": 0,
+    "Counter2": 0,
+    "Prices": {
+      "PriceType": "FixedPrice",
+      "New": null,
+      "NewIsIncVat": false,
+      "Showroom": 39290,
+      "ShowroomIsIncVat": true,
+      "Action": null,
+      "ActionIsIncVat": false,
+      "TakeAway": null,
+      "TakeAwayIsIncVat": false,
+      "Trade": null,
+      "TradeIsIncVat": false,
+      "Export": null,
+      "ExportIsIncVat": false,
+      "AllowBidding": false,
+      "MinimalBid": null
+    },
+    "Color": null,
+    "IsUsed": false,
+    "IsVatMargin": false,
+    "AdditionalInformation": "Indian Roadmaster\r\nDe Roadmaster is een nauwgezet samengestelde, krachtige en uitgebalanceerde touring-fiets. Bomvol met het meest complete pakket aan touring-mogelijkheden.\r\n\r\nTOUCHSCREEN MET RIDE COMMAND\r\nEen prachtig 7-inch touchscreen met RIDE COMMAND biedt integratie van Apple CarPlay, navigatie, Bluetooth®-connectiviteit, en nog veel meer.\r\n\r\nTHUNDERSTROKE 116 V-TWIN MOTORBLOK\r\nDe luchtgekoelde Thunderstroke 116-motor produceert een koppel van 171 Nm voor uitzonderlijke kracht bij lage toerentallen en een soepel rijkarakter bij elke snelheid.\r\n\r\nCOMFORTABEL DOORRIJDEN\r\nVerwarmde handgrepen en tweepersoons zadel met onafhankelijke warmteregeling voor zowel de passagier als de bestuurder garanderen dat je reist in alle comfort. Harde onderste kuipdelen met verstelbare ventilatieopeningen bieden rijders de mogelijkheid de luchtstroom aan te passen voor superieur rijcomfort.",
+    "MultilanguageTexts": [
+      {
+        "IsDefault": true,
+        "Language": "NL",
+        "Description": "Indian Roadmaster\r\nDe Roadmaster is een nauwgezet samengestelde, krachtige en uitgebalanceerde touring-fiets. Bomvol met het meest complete pakket aan touring-mogelijkheden.\r\n\r\nTOUCHSCREEN MET RIDE COMMAND\r\nEen prachtig 7-inch touchscreen met RIDE COMMAND biedt integratie van Apple CarPlay, navigatie, Bluetooth®-connectiviteit, en nog veel meer.\r\n\r\nTHUNDERSTROKE 116 V-TWIN MOTORBLOK\r\nDe luchtgekoelde Thunderstroke 116-motor produceert een koppel van 171 Nm voor uitzonderlijke kracht bij lage toerentallen en een soepel rijkarakter bij elke snelheid.\r\n\r\nCOMFORTABEL DOORRIJDEN\r\nVerwarmde handgrepen en tweepersoons zadel met onafhankelijke warmteregeling voor zowel de passagier als de bestuurder garanderen dat je reist in alle comfort. Harde onderste kuipdelen met verstelbare ventilatieopeningen bieden rijders de mogelijkheid de luchtstroom aan te passen voor superieur rijcomfort.",
+        "ConfigurationDescription": null
+      }
+    ],
+    "MainLanguage": "NL",
+    "Url": null,
+    "ConfigurationDescription": "Motor\r\nMotortype\t\t\tThunderstroke 116\r\nCilinderinhoud\t\t\t1890 cc\r\n\r\nPrestaties\r\nMaximaal koppel RPM\t\t3000 rpm\r\nMaximum koppel (95/1/EC NM)\t171 Nm\r\n\r\nStandaarduitrusting\t\r\n7 inch touchscreen powered by Ride Command with Navigation and Apple CarPlay® integration\r\nPower Windshield\r\nHighway Bars\r\nVinyl Rogue Seats\r\nHeated Grips\r\nAdjustable Passenger Floorboards\r\n137 litres of Storage\r\nTire Pressure Monitoring\r\nRemote-locking Hard Saddlebags \u0026 Trunk\r\nSelectable Ride Modes\r\nRear Cylinder Deactivation\r\nABS\r\nCruise Control\r\nKeyless Ignition\r\n200 Watt Audio System with AM/FM, Bluetooth, USB, Smartphone Compatible Input, and Weatherband\r\n12V Charging Port\r\n\r\nElectronica\t\r\nMeters\tFairing-mounted instrument cluster",
+    "WarrantyCode": null,
+    "WarrantyDescription": null,
+    "Seller": 0,
+    "Inspections": [],
+    "Settings": {
+      "AddUnmappedFieldsAsText": true
+    },
+    "Websites": [
+      {
+        "Code": "MOC",
+        "SiteCode": "motoroccasion",
+        "Description": "MotorOccasion",
+        "TableCode": 3,
+        "CommunicationCode": 20
+      }
+    ],
+    "Images": [
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1659009790-AkHkRhmId4acjrYGCNs3IdVEB6I/dossier-mach/INDIAN_10039/10039-001_Motoroccasion_RoadMaster_2.jpg",
+        "LastModifiedUtc": "2022-07-28T12:03:10"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1659009794-_KtseTtdNB2VcoDOT9ixxd089jk/dossier-mach/INDIAN_10039/10039-002_Motoroccasion_RoadMaster_3.jpg",
+        "LastModifiedUtc": "2022-07-28T12:03:14"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1659009800-9JNUhVn7Id3MLD8HJaNBVyUrRLk/dossier-mach/INDIAN_10039/10039-003_Motoroccasion_RoadMaster_4.jpg",
+        "LastModifiedUtc": "2022-07-28T12:03:20"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1659009804-TegfQjK7J4Xmd8GJ746keftqaaU/dossier-mach/INDIAN_10039/10039-004_Motoroccasion_RoadMaster_5.jpg",
+        "LastModifiedUtc": "2022-07-28T12:03:24"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1659009808-fimAz1vvJaGmXjzZEV-vaWdqoRQ/dossier-mach/INDIAN_10039/10039-005_Motoroccasion_RoadMaster_6.jpg",
+        "LastModifiedUtc": "2022-07-28T12:03:28"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1659009813-MuqUY8uPxM5PbUSOw5J84IATCnQ/dossier-mach/INDIAN_10039/10039-006_Motoroccasion_RoadMaster_9.jpg",
+        "LastModifiedUtc": "2022-07-28T12:03:33"
+      }
+    ],
+    "HexonConfigurationItems": [
+      {
+        "ElementCode": "H170",
+        "Description": "Cilinderinhoud (cc)",
+        "ValueCode": null,
+        "Value": "1890"
+      },
+      {
+        "ElementCode": "H140",
+        "Description": "Geschikt voor rijbewijs",
+        "ValueCode": null,
+        "Value": "A"
+      },
+      {
+        "ElementCode": "H205",
+        "Description": "Nieuw/Gebruikt",
+        "ValueCode": "NIEUW",
+        "Value": "Nieuw"
+      },
+      {
+        "ElementCode": "H208",
+        "Description": "Financiering mogelijk",
+        "ValueCode": "JA",
+        "Value": "Ja"
+      }
+    ],
+    "OtherConfigurationItems": [
+      {
+        "ElementCode": "1023",
+        "Description": "Garantie",
+        "ValueCode": null,
+        "Value": "Ja"
+      }
+    ]
+  },
+  {
+    "ServiceNumber": 10040,
+    "BuildYear": 2022,
+    "RegistrationNumber": null,
+    "Make": "Indian",
+    "Type": "Scout",
+    "Title": "Indian Scout",
+    "MainGroupCode": "H010",
+    "MainGroupFixedName": "Motoren",
+    "MainGroup": "Motoren",
+    "SubGroupCode": "12",
+    "SubGroupFixedName": "Cruiser",
+    "SubGroup": "Cruiser",
+    "Counter1": 0,
+    "Counter2": 0,
+    "Prices": {
+      "PriceType": "FixedPrice",
+      "New": null,
+      "NewIsIncVat": false,
+      "Showroom": 18690,
+      "ShowroomIsIncVat": true,
+      "Action": null,
+      "ActionIsIncVat": false,
+      "TakeAway": null,
+      "TakeAwayIsIncVat": false,
+      "Trade": null,
+      "TradeIsIncVat": false,
+      "Export": null,
+      "ExportIsIncVat": false,
+      "AllowBidding": false,
+      "MinimalBid": null
+    },
+    "Color": null,
+    "IsUsed": false,
+    "IsVatMargin": false,
+    "AdditionalInformation": "INDIAN SCOUT\r\nEen naam die honderd jaar terugvoert en een rijervaring die dit erfgoed alle eer aan doet. De Scout combineert een klassiek ontwerp met modern prestatievermogen.\r\n\r\n94 PAARDEN. ONBETEUGELD.\r\nDe vloeistofgekoelde, 1133 cc, 94-pk V-twin levert pittige acceleraties en het vermogen om iedereen in te halen, waar dan ook. De elektronische brandstofinjectie staat garant voor maatgevende prestaties en indrukwekkende acceleraties, terwijl de snel reagerende 6-versnellingsbak zorgt voor een sportief rijgedrag.\r\n\r\nGEDRAPEERD IN CHROOM\r\nEersteklas chroom zorgt voor een opvallende glans. Zorg dat je prominent op de voorgrond komt.\r\n\r\nRIJDEN MET Z\u0027N TWEEËN\r\nHet tweepersoons zadel is ontworpen om de elementen te weerstaan en tegelijkertijd zijn natuurlijke schoonheid te behouden. Passagiersvoetsteunen standaard.",
+    "MultilanguageTexts": [
+      {
+        "IsDefault": true,
+        "Language": "NL",
+        "Description": "INDIAN SCOUT\r\nEen naam die honderd jaar terugvoert en een rijervaring die dit erfgoed alle eer aan doet. De Scout combineert een klassiek ontwerp met modern prestatievermogen.\r\n\r\n94 PAARDEN. ONBETEUGELD.\r\nDe vloeistofgekoelde, 1133 cc, 94-pk V-twin levert pittige acceleraties en het vermogen om iedereen in te halen, waar dan ook. De elektronische brandstofinjectie staat garant voor maatgevende prestaties en indrukwekkende acceleraties, terwijl de snel reagerende 6-versnellingsbak zorgt voor een sportief rijgedrag.\r\n\r\nGEDRAPEERD IN CHROOM\r\nEersteklas chroom zorgt voor een opvallende glans. Zorg dat je prominent op de voorgrond komt.\r\n\r\nRIJDEN MET Z\u0027N TWEEËN\r\nHet tweepersoons zadel is ontworpen om de elementen te weerstaan en tegelijkertijd zijn natuurlijke schoonheid te behouden. Passagiersvoetsteunen standaard.",
+        "ConfigurationDescription": null
+      }
+    ],
+    "MainLanguage": "NL",
+    "Url": null,
+    "ConfigurationDescription": "Motor\t\r\nMotortype\t\t\tLiquid Cooled V-Twin\r\nCilinderinhoud\t\t\t1130 CC\r\n\r\nMaximaal koppel RPM\t\t5600 tpm\r\nMaximum koppel (95/1/EC NM)\t97 Nm\r\n\t\r\nStandaarduitrusting\r\n1133 cc Vloeistofgekoelde V-Twin\r\nChrome Finishes\r\n2-up Sport seat\r\ncartridge Voorvork\r\nUSB-poort voor Opladen\r\nElektronische Brandstofinjectie\r\n\r\nMeters\r\nDigitale snelheidsmeter met digitale toerenteller, kilometerteller, dagteller, motortemperatuurmeter en brandstofverklikker",
+    "WarrantyCode": null,
+    "WarrantyDescription": null,
+    "Seller": 0,
+    "Inspections": [],
+    "Settings": {
+      "AddUnmappedFieldsAsText": true
+    },
+    "Websites": [
+      {
+        "Code": "MOC",
+        "SiteCode": "motoroccasion",
+        "Description": "MotorOccasion",
+        "TableCode": 3,
+        "CommunicationCode": 20
+      }
+    ],
+    "Images": [
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1659010621-S-9rhq_HVC7N0HuySr65pyS4h9I/dossier-mach/INDIAN_10040/10040-001_Motoroccasion_Scout_1.jpg",
+        "LastModifiedUtc": "2022-07-28T12:17:01"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1659010626-tjboRH3PpO_h8vtp1UUSGeCTnSg/dossier-mach/INDIAN_10040/10040-002_Motoroccasion_Scout_2.jpg",
+        "LastModifiedUtc": "2022-07-28T12:17:06"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1659010632-iJuH175BXRNFQ-5IWi22uFGCpEs/dossier-mach/INDIAN_10040/10040-003_Motoroccasion_Scout_3.jpg",
+        "LastModifiedUtc": "2022-07-28T12:17:12"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1659010637-TvincmxLtGCg3BEnLmBXKPEMZnA/dossier-mach/INDIAN_10040/10040-004_Motoroccasion_Scout_4.jpg",
+        "LastModifiedUtc": "2022-07-28T12:17:17"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1659010643-kn-zznuttiZwkoO1GgUMkm4XggA/dossier-mach/INDIAN_10040/10040-005_Motoroccasion_Scout_5.jpg",
+        "LastModifiedUtc": "2022-07-28T12:17:23"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1659010647-wu7aqS9xbDQ4kZBdyduBOQoRlYU/dossier-mach/INDIAN_10040/10040-006_Motoroccasion_Scout_6.jpg",
+        "LastModifiedUtc": "2022-07-28T12:17:27"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1659010651-5JLMsx8X00jszA85MTPGjFt85_U/dossier-mach/INDIAN_10040/10040-007_Motoroccasion_Scout_7.jpg",
+        "LastModifiedUtc": "2022-07-28T12:17:31"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1659010655-opvWjUqWa6R9E09vjH8YOSS_MkY/dossier-mach/INDIAN_10040/10040-008_Motoroccasion_Scout_8.jpg",
+        "LastModifiedUtc": "2022-07-28T12:17:35"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1659010663-t3w0o_69A0CwqGIfbEjhWNxA0k0/dossier-mach/INDIAN_10040/10040-009_Motoroccasion_Scout_9.jpg",
+        "LastModifiedUtc": "2022-07-28T12:17:43"
+      }
+    ],
+    "HexonConfigurationItems": [
+      {
+        "ElementCode": "H170",
+        "Description": "Cilinderinhoud (cc)",
+        "ValueCode": null,
+        "Value": "1130"
+      },
+      {
+        "ElementCode": "H140",
+        "Description": "Geschikt voor rijbewijs",
+        "ValueCode": null,
+        "Value": "A"
+      },
+      {
+        "ElementCode": "H205",
+        "Description": "Nieuw/Gebruikt",
+        "ValueCode": "NIEUW",
+        "Value": "Nieuw"
+      },
+      {
+        "ElementCode": "H208",
+        "Description": "Financiering mogelijk",
+        "ValueCode": "JA",
+        "Value": "Ja"
+      }
+    ],
+    "OtherConfigurationItems": [
+      {
+        "ElementCode": "1023",
+        "Description": "Garantie",
+        "ValueCode": null,
+        "Value": "Ja"
+      }
+    ]
+  },
+  {
+    "ServiceNumber": 10052,
+    "BuildYear": 2022,
+    "RegistrationNumber": "56MSPX",
+    "Make": "Indian",
+    "Type": "Scout Bobber",
+    "Title": "Indian Scout Bobber",
+    "MainGroupCode": "H010",
+    "MainGroupFixedName": "Motoren",
+    "MainGroup": "Motoren",
+    "SubGroupCode": "12",
+    "SubGroupFixedName": "Cruiser",
+    "SubGroup": "Cruiser",
+    "Counter1": 903,
+    "Counter2": 0,
+    "Prices": {
+      "PriceType": "AskingPrice",
+      "New": null,
+      "NewIsIncVat": false,
+      "Showroom": 19090,
+      "ShowroomIsIncVat": true,
+      "Action": null,
+      "ActionIsIncVat": false,
+      "TakeAway": null,
+      "TakeAwayIsIncVat": false,
+      "Trade": null,
+      "TradeIsIncVat": false,
+      "Export": null,
+      "ExportIsIncVat": false,
+      "AllowBidding": false,
+      "MinimalBid": null
+    },
+    "Color": null,
+    "IsUsed": false,
+    "IsVatMargin": false,
+    "AdditionalInformation": "SCOUT BOBBER\r\nDe Scout Bobber is de moderne interpretatie van de iconische bobber-stijl. Gestript, in maroon metallic smoke uitgevoerd, met een scherpe styling en ongepolijste power.\r\n\r\n94 NAUWELIJKS GETEMDE PAARDENKRACHTEN\r\nDe vloeistofgekoelde, 1133 cc grote, 94 PK sterke V-Twin biedt snelle acceleratie en meer dan genoeg power voor elke situatie.\r\n\r\nICONISCH BOBBER-DESIGN\r\nSpiegels op het stuur verfijnen het silhouet zodat de motorfiets ook stilstaand er geweldig uitziet.\r\n\r\nLAGE ZIT, ALLE COMFORT\r\nHet zadel in Bobber-stijl plaatst je in een agressieve rijpositie zonder aan comfort in te boeten.\r\n\r\nPREMIUM STYLING\r\nDankzij ongekende aandacht voor details is de gestripte Scout Bobber een niet te negeren verschijning.",
+    "MultilanguageTexts": [
+      {
+        "IsDefault": true,
+        "Language": "NL",
+        "Description": "SCOUT BOBBER\r\nDe Scout Bobber is de moderne interpretatie van de iconische bobber-stijl. Gestript, in maroon metallic smoke uitgevoerd, met een scherpe styling en ongepolijste power.\r\n\r\n94 NAUWELIJKS GETEMDE PAARDENKRACHTEN\r\nDe vloeistofgekoelde, 1133 cc grote, 94 PK sterke V-Twin biedt snelle acceleratie en meer dan genoeg power voor elke situatie.\r\n\r\nICONISCH BOBBER-DESIGN\r\nSpiegels op het stuur verfijnen het silhouet zodat de motorfiets ook stilstaand er geweldig uitziet.\r\n\r\nLAGE ZIT, ALLE COMFORT\r\nHet zadel in Bobber-stijl plaatst je in een agressieve rijpositie zonder aan comfort in te boeten.\r\n\r\nPREMIUM STYLING\r\nDankzij ongekende aandacht voor details is de gestripte Scout Bobber een niet te negeren verschijning.",
+        "ConfigurationDescription": null
+      }
+    ],
+    "MainLanguage": "NL",
+    "Url": null,
+    "ConfigurationDescription": "Motor\t\r\nMotortype\t\t\tLiquid Cooled V-Twin\r\nCilinderinhoud\t\t\t1133 cc\r\n\r\nMaximaal koppel RPM\t\t5600 rpm\r\nMaximum koppel (95/1/EC NM)\t97 Nm\r\n\r\nStandaarduitrusting\r\n1133 cc Vloeistofgekoelde V-Twin\r\nVolledig Zwarte Uitvoering\r\nSolozadel\r\nCartridge Voorvork\r\nUSB-poort voor Opladen\r\nElektronische Brandstofinjectie\r\n\r\nElectronica\t\r\nMeters\tDigitale snelheidsmeter met digitale toerenteller, kilometerteller, dagteller, motortemperatuurmeter en brandstofverklikker",
+    "WarrantyCode": null,
+    "WarrantyDescription": null,
+    "Seller": 0,
+    "Inspections": [],
+    "Settings": {
+      "AddUnmappedFieldsAsText": true
+    },
+    "Websites": [
+      {
+        "Code": "MOC",
+        "SiteCode": "motoroccasion",
+        "Description": "MotorOccasion",
+        "TableCode": 3,
+        "CommunicationCode": 20
+      }
+    ],
+    "Images": [
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1665007222-1Eil8EXc0kqxleKohtZ617GZot4/dossier-mach/INDIAN_10052/10052-001_Indian_Scout_Bobber_Maroon_1.jpg",
+        "LastModifiedUtc": "2022-10-05T22:00:22"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1665007223--Dazdq539B8SuOuE1ruwoepfjW8/dossier-mach/INDIAN_10052/10052-002_Indian_Scout_Bobber_Maroon_2.jpg",
+        "LastModifiedUtc": "2022-10-05T22:00:23"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1665007226-Wfj0lUrb6WwwShcwsSvu9FvyT5I/dossier-mach/INDIAN_10052/10052-003_Indian_Scout_Bobber_Maroon_3.jpg",
+        "LastModifiedUtc": "2022-10-05T22:00:26"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1665007228-_V6I3b8gsWXY9C2sDOpikP5B_3o/dossier-mach/INDIAN_10052/10052-004_Indian_Scout_Bobber_Maroon_4.jpg",
+        "LastModifiedUtc": "2022-10-05T22:00:28"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1665007231-WsWeG18wpJN-UjQqG7qsXOJvR2c/dossier-mach/INDIAN_10052/10052-005_Indian_Scout_Bobber_Maroon_5.jpg",
+        "LastModifiedUtc": "2022-10-05T22:00:31"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1665007233-Gea60aQssPUBz46BpqW2WuJ_QBs/dossier-mach/INDIAN_10052/10052-006_Indian_Scout_Bobber_Maroon_6.jpg",
+        "LastModifiedUtc": "2022-10-05T22:00:33"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1665007234-yE5AsblmcRsAQbYluFpQPPXZq1Y/dossier-mach/INDIAN_10052/10052-007_Indian_Scout_Bobber_Maroon_7.jpg",
+        "LastModifiedUtc": "2022-10-05T22:00:34"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1665007236-_5q-eL_jZQ9QkpYqwofFNXy4TQs/dossier-mach/INDIAN_10052/10052-008_Indian_Scout_Bobber_Maroon_8.jpg",
+        "LastModifiedUtc": "2022-10-05T22:00:36"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1665007239-iQqoPGtsBkRPY9Vlcz482km-Xl8/dossier-mach/INDIAN_10052/10052-009_Indian_Scout_Bobber_Maroon_9.jpg",
+        "LastModifiedUtc": "2022-10-05T22:00:39"
+      }
+    ],
+    "HexonConfigurationItems": [
+      {
+        "ElementCode": "H170",
+        "Description": "Cilinderinhoud (cc)",
+        "ValueCode": null,
+        "Value": "1133"
+      },
+      {
+        "ElementCode": "H140",
+        "Description": "Geschikt voor rijbewijs",
+        "ValueCode": null,
+        "Value": "A"
+      },
+      {
+        "ElementCode": "H205",
+        "Description": "Nieuw/Gebruikt",
+        "ValueCode": "NIEUW",
+        "Value": "Nieuw"
+      },
+      {
+        "ElementCode": "H208",
+        "Description": "Financiering mogelijk",
+        "ValueCode": "JA",
+        "Value": "Ja"
+      }
+    ],
+    "OtherConfigurationItems": [
+      {
+        "ElementCode": "1023",
+        "Description": "Garantie",
+        "ValueCode": null,
+        "Value": "Ja"
+      }
+    ]
+  },
+  {
+    "ServiceNumber": 10053,
+    "BuildYear": 2022,
+    "RegistrationNumber": "83MSHL",
+    "Make": "Indian",
+    "Type": "Chief Bobber Dark Horse",
+    "Title": "Indian Chief Bobber Dark Horse",
+    "MainGroupCode": "H010",
+    "MainGroupFixedName": "Motoren",
+    "MainGroup": "Motoren",
+    "SubGroupCode": "12",
+    "SubGroupFixedName": "Cruiser",
+    "SubGroup": "Cruiser",
+    "Counter1": 1678,
+    "Counter2": 0,
+    "Prices": {
+      "PriceType": "AskingPrice",
+      "New": null,
+      "NewIsIncVat": false,
+      "Showroom": 25790,
+      "ShowroomIsIncVat": true,
+      "Action": null,
+      "ActionIsIncVat": false,
+      "TakeAway": null,
+      "TakeAwayIsIncVat": false,
+      "Trade": null,
+      "TradeIsIncVat": false,
+      "Export": null,
+      "ExportIsIncVat": false,
+      "AllowBidding": false,
+      "MinimalBid": null
+    },
+    "Color": null,
+    "IsUsed": false,
+    "IsVatMargin": false,
+    "AdditionalInformation": "CHIEF BOBBER DARK HORSE\r\nDe luchtgekoelde Thunderstroke 116 levert een machtige 162 Nm aan koppel voor meer dan voldoende vermogen in elk van de 6 versnellingen. Deze motor valt op en heeft een voor de rijder verslavend karakter.\r\n\r\nZWART TOT IN DE DETAILS\r\nEen volledig zwart uiterlijk met premium glanzend zwarte details.\r\n\r\nHEERS OVER DE WEG\r\nHet lage solozadel geeft je het gevoel te heersen over de weg, terwijl de naar voren geplaatste voetsteunen en het mini ape-stuur ervoor zorgen dat je met de voeten vooruit en de handen in de wind kunt rijden.\r\n\r\nICONISCH DESIGN\r\nGeworteld in traditie, ontworpen voor het hier en nu. Het iconische War Bonnet-logo van Indian Motorcycle is een eerbetoon aan de originele Chief.",
+    "MultilanguageTexts": [
+      {
+        "IsDefault": true,
+        "Language": "NL",
+        "Description": "CHIEF BOBBER DARK HORSE\r\nDe luchtgekoelde Thunderstroke 116 levert een machtige 162 Nm aan koppel voor meer dan voldoende vermogen in elk van de 6 versnellingen. Deze motor valt op en heeft een voor de rijder verslavend karakter.\r\n\r\nZWART TOT IN DE DETAILS\r\nEen volledig zwart uiterlijk met premium glanzend zwarte details.\r\n\r\nHEERS OVER DE WEG\r\nHet lage solozadel geeft je het gevoel te heersen over de weg, terwijl de naar voren geplaatste voetsteunen en het mini ape-stuur ervoor zorgen dat je met de voeten vooruit en de handen in de wind kunt rijden.\r\n\r\nICONISCH DESIGN\r\nGeworteld in traditie, ontworpen voor het hier en nu. Het iconische War Bonnet-logo van Indian Motorcycle is een eerbetoon aan de originele Chief.",
+        "ConfigurationDescription": null
+      }
+    ],
+    "MainLanguage": "NL",
+    "Url": null,
+    "ConfigurationDescription": "Motor\t\r\nMotortype\t\t\tThunderstroke 116\r\nCilinderinhoud\t\t\t1890 cc\r\n\r\nMaximaal koppel RPM\t\t3200 rpm\r\nMaximum koppel (95/1/EC NM)\t162 Nm\r\n\r\nStandaarduitrusting\t\r\nABS\r\nrijmodi\r\nsleutelloos starten\r\nUSB-laadaansluiting\r\n12V-laadaansluiting\r\nuitschakelsysteem achterste cilinder\r\n\r\nElectronica\t\r\nMeters\tSnelheidsmeter, toerenteller, kilometerteller, brandstofmeter, kompas, buitentemperatuurmeter, indicator ingeschakelde versnelling\r\n\r\nRide Command®\r\nRond 4” Ride Command®-display. Touchscreen inclusief realtime klok; buitentemperatuur; rijrichting; weergave van audio-informatie; navigatiesysteem met kaartweergave; Bluetooth-status van telefoon en geselecteerde headset; voertuigstatus (spanning, draaiuren motor, olie verversen); voertuiginformatie (snelheid, actieradius, toerental, ingeschakelde versnelling); gegevens actuele rit (afstand, rijtijd, stoptijd, hoogte, hoogteverschillen); dagtellers; rijmodusselectie; helderheid van het scherm; uitlezen van storingscodes van het voertuig.",
+    "WarrantyCode": null,
+    "WarrantyDescription": null,
+    "Seller": 0,
+    "Inspections": [],
+    "Settings": {
+      "AddUnmappedFieldsAsText": true
+    },
+    "Websites": [
+      {
+        "Code": "MOC",
+        "SiteCode": "motoroccasion",
+        "Description": "MotorOccasion",
+        "TableCode": 3,
+        "CommunicationCode": 20
+      }
+    ],
+    "Images": [
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1665007242-5hwfQY4wKT6GgYOFyOMUOEdLxwo/dossier-mach/INDIAN_10053/10053-001_Indian_Chief_Bobber_Dark_Horse_TIT_1.jpg",
+        "LastModifiedUtc": "2022-10-05T22:00:42"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1665007245-vnYzVPkeNw2KgydrBe-Z-10GnqE/dossier-mach/INDIAN_10053/10053-002_Indian_Chief_Bobber_Dark_Horse_TIT_2.jpg",
+        "LastModifiedUtc": "2022-10-05T22:00:45"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1665007248-1t-SiyToJ8lVHUnWo26a0zno1-k/dossier-mach/INDIAN_10053/10053-003_Indian_Chief_Bobber_Dark_Horse_TIT_3.jpg",
+        "LastModifiedUtc": "2022-10-05T22:00:48"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1665007252-yDL6FuvfYJqTfJuZKX20yvkCARo/dossier-mach/INDIAN_10053/10053-004_Indian_Chief_Bobber_Dark_Horse_TIT_4.jpg",
+        "LastModifiedUtc": "2022-10-05T22:00:52"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1665007254-wrJTsvenlHfdY739yjy40kZhmrM/dossier-mach/INDIAN_10053/10053-005_Indian_Chief_Bobber_Dark_Horse_TIT_5.jpg",
+        "LastModifiedUtc": "2022-10-05T22:00:54"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1665007256-BpHaXV-8ZL0_wEgoozWXaBhTfvo/dossier-mach/INDIAN_10053/10053-006_Indian_Chief_Bobber_Dark_Horse_TIT_6.jpg",
+        "LastModifiedUtc": "2022-10-05T22:00:56"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1665007258-_SxRtnGsKBy2wAg4fSK2ZIwBTFk/dossier-mach/INDIAN_10053/10053-007_Indian_Chief_Bobber_Dark_Horse_TIT_7.jpg",
+        "LastModifiedUtc": "2022-10-05T22:00:58"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1665007259-JVr-HV_Xza8PrnZHH-vyoc6J53Y/dossier-mach/INDIAN_10053/10053-008_Indian_Chief_Bobber_Dark_Horse_TIT_8.jpg",
+        "LastModifiedUtc": "2022-10-05T22:00:59"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1665007262-sRQKDaMTAebLHEWps1KBINnqNDQ/dossier-mach/INDIAN_10053/10053-009_Indian_Chief_Bobber_Dark_Horse_TIT_9.jpg",
+        "LastModifiedUtc": "2022-10-05T22:01:02"
+      }
+    ],
+    "HexonConfigurationItems": [
+      {
+        "ElementCode": "H170",
+        "Description": "Cilinderinhoud (cc)",
+        "ValueCode": null,
+        "Value": "1890"
+      },
+      {
+        "ElementCode": "H140",
+        "Description": "Geschikt voor rijbewijs",
+        "ValueCode": null,
+        "Value": "A"
+      },
+      {
+        "ElementCode": "H205",
+        "Description": "Nieuw/Gebruikt",
+        "ValueCode": "NIEUW",
+        "Value": "Nieuw"
+      },
+      {
+        "ElementCode": "H208",
+        "Description": "Financiering mogelijk",
+        "ValueCode": "JA",
+        "Value": "Ja"
+      }
+    ],
+    "OtherConfigurationItems": [
+      {
+        "ElementCode": "1023",
+        "Description": "Garantie",
+        "ValueCode": null,
+        "Value": "Ja"
+      }
+    ]
+  },
+  {
+    "ServiceNumber": 10054,
+    "BuildYear": 2022,
+    "RegistrationNumber": "94MSHL",
+    "Make": "Indian",
+    "Type": "FTR1200Z R Carbon",
+    "Title": "Indian FTR1200Z R Carbon",
+    "MainGroupCode": "H010",
+    "MainGroupFixedName": "Motoren",
+    "MainGroup": "Motoren",
+    "SubGroupCode": "12",
+    "SubGroupFixedName": "Cruiser",
+    "SubGroup": "Cruiser",
+    "Counter1": 0,
+    "Counter2": 0,
+    "Prices": {
+      "PriceType": "AskingPrice",
+      "New": null,
+      "NewIsIncVat": false,
+      "Showroom": 22290,
+      "ShowroomIsIncVat": true,
+      "Action": null,
+      "ActionIsIncVat": false,
+      "TakeAway": null,
+      "TakeAwayIsIncVat": false,
+      "Trade": null,
+      "TradeIsIncVat": false,
+      "Export": null,
+      "ExportIsIncVat": false,
+      "AllowBidding": false,
+      "MinimalBid": null
+    },
+    "Color": null,
+    "IsUsed": false,
+    "IsVatMargin": false,
+    "AdditionalInformation": "INDIAN FTR1200Z R CARBON\r\nDe FTR R Carbon combineert het karakter van een kampioen met de uitstraling van een premium streetbike.\r\n\r\nEERSTEKLAS STYLING\r\nDe bodydelen van koolstofvezel en de genummerde carbon badge herinneren je er constant aan hoe exclusief je motorfiets is.\r\n\r\nVERSTELBARE OHLINS®-WIELOPHANGING\r\nMet de volledig verstelbare Ohlins®-voorvork, de maatstaf in de motorfietswereld, en de piggyback-schokdempers kun je het rijgedrag geheel aan je eigen wensen aanpassen.\r\n\r\nPREMIUM ZADEL\r\nHet hoogwaardige zadel met een bij de lakkleur passend subframe dragen bij aan het opvallende uiterlijk van de FTR R Carbon. Ongeëvenaard comfort en unieke sensaties zijn gegarandeerd wanneer je op dit zadel plaatsneemt.\r\n\r\nNAUWKEURIGE HANDLING\r\nDe 17\u0022 wielen met Metzeler® Sportec®-banden en de op weggebruik afgestemde wielophanging staan garant voor een rotsvaste wegligging, ultieme wendbaarheid en een nauwkeurige handling.",
+    "MultilanguageTexts": [
+      {
+        "IsDefault": true,
+        "Language": "NL",
+        "Description": "INDIAN FTR1200Z R CARBON\r\nDe FTR R Carbon combineert het karakter van een kampioen met de uitstraling van een premium streetbike.\r\n\r\nEERSTEKLAS STYLING\r\nDe bodydelen van koolstofvezel en de genummerde carbon badge herinneren je er constant aan hoe exclusief je motorfiets is.\r\n\r\nVERSTELBARE OHLINS®-WIELOPHANGING\r\nMet de volledig verstelbare Ohlins®-voorvork, de maatstaf in de motorfietswereld, en de piggyback-schokdempers kun je het rijgedrag geheel aan je eigen wensen aanpassen.\r\n\r\nPREMIUM ZADEL\r\nHet hoogwaardige zadel met een bij de lakkleur passend subframe dragen bij aan het opvallende uiterlijk van de FTR R Carbon. Ongeëvenaard comfort en unieke sensaties zijn gegarandeerd wanneer je op dit zadel plaatsneemt.\r\n\r\nNAUWKEURIGE HANDLING\r\nDe 17\u0022 wielen met Metzeler® Sportec®-banden en de op weggebruik afgestemde wielophanging staan garant voor een rotsvaste wegligging, ultieme wendbaarheid en een nauwkeurige handling.",
+        "ConfigurationDescription": null
+      }
+    ],
+    "MainLanguage": "NL",
+    "Url": null,
+    "ConfigurationDescription": "Motor\t\r\nMotortype\t\t\tVloeistofgekoelde V-Twin\r\nCilinderinhoud\t\t\t1203 cc\r\n\r\nPrestaties\t\r\nMaximaal koppel RPM\t\t6000 rpm\r\nMaximum koppel (95/1/EC NM)\t120 Nm\r\n\r\nStandaarduitrusting\t\t\t\r\nABS\r\nCruise Control\r\n\r\nElectronica\t\r\n4 inch instrumentenpaneel met analoge snelheidsmeter en digitale toerenteller, kilometerteller, dagteller, waarschuwingslampje brandstofniveau, waarschuwingslampje oververhitting\r\n\r\nFeatures\t\r\nKleur/graphics\tCarbon Fiber\r\nFabrieksgarantie\t2 jaar\r\n\r\nStandaarduitrusting\tRijmodi (Rain, Standard, Sport)\r\nLean Angle Sensitive ABS\r\nStability Control\r\nTraction Control\r\nWheelie Control met Rear Lift Mitigation\r\nUSB-laadaansluiting\r\ncruise control\r\n\r\nElectronica\t\r\nMeters\t4,3 inch Ride Command LCD-touchscreen met Bluetooth",
+    "WarrantyCode": null,
+    "WarrantyDescription": null,
+    "Seller": 0,
+    "Inspections": [],
+    "Settings": {
+      "AddUnmappedFieldsAsText": true
+    },
+    "Websites": [
+      {
+        "Code": "MOC",
+        "SiteCode": "motoroccasion",
+        "Description": "MotorOccasion",
+        "TableCode": 3,
+        "CommunicationCode": 20
+      }
+    ],
+    "Images": [
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1665007264-mt5EsdxeXmTnOC0px_ZFV-SIO_g/dossier-mach/INDIAN_10054/10054-001_Indian_FTR1200Z_R_Carbon_1.jpg",
+        "LastModifiedUtc": "2022-10-05T22:01:04"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1665007266-NTdYqZ0tej_xa5EyKyUJs70G1VE/dossier-mach/INDIAN_10054/10054-002_Indian_FTR1200Z_R_Carbon_2.jpg",
+        "LastModifiedUtc": "2022-10-05T22:01:06"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1665007268-7rJYCMuKDag6KQGnTwc_WLskUNg/dossier-mach/INDIAN_10054/10054-003_Indian_FTR1200Z_R_Carbon_3.jpg",
+        "LastModifiedUtc": "2022-10-05T22:01:08"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1665007271-3I6F55ywQgTUBD1tSURA4GQ5Jb4/dossier-mach/INDIAN_10054/10054-004_Indian_FTR1200Z_R_Carbon_4.jpg",
+        "LastModifiedUtc": "2022-10-05T22:01:11"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1665007274-JaLmkVzHDcmCQ6c9XFt1fYWyFAA/dossier-mach/INDIAN_10054/10054-005_Indian_FTR1200Z_R_Carbon_5.jpg",
+        "LastModifiedUtc": "2022-10-05T22:01:14"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1665007276-H0l0uJEhO8kU6WBXMipFWY7Xl34/dossier-mach/INDIAN_10054/10054-006_Indian_FTR1200Z_R_Carbon_6.jpg",
+        "LastModifiedUtc": "2022-10-05T22:01:16"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1665007278-pcYMRmNkSfjvnuJLhoAOJUKUCHg/dossier-mach/INDIAN_10054/10054-007_Indian_FTR1200Z_R_Carbon_7.jpg",
+        "LastModifiedUtc": "2022-10-05T22:01:18"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1665007280-cFR7SbUh-RbroeXQxj7dY7LTVDc/dossier-mach/INDIAN_10054/10054-008_Indian_FTR1200Z_R_Carbon_8.jpg",
+        "LastModifiedUtc": "2022-10-05T22:01:20"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1665007282-c9uOICHClKhSCkrKkYdOJxYOvb8/dossier-mach/INDIAN_10054/10054-009_Indian_FTR1200Z_R_Carbon_9.jpg",
+        "LastModifiedUtc": "2022-10-05T22:01:22"
+      }
+    ],
+    "HexonConfigurationItems": [
+      {
+        "ElementCode": "H170",
+        "Description": "Cilinderinhoud (cc)",
+        "ValueCode": null,
+        "Value": "1203"
+      },
+      {
+        "ElementCode": "H140",
+        "Description": "Geschikt voor rijbewijs",
+        "ValueCode": null,
+        "Value": "A"
+      },
+      {
+        "ElementCode": "H205",
+        "Description": "Nieuw/Gebruikt",
+        "ValueCode": "NIEUW",
+        "Value": "Nieuw"
+      },
+      {
+        "ElementCode": "H208",
+        "Description": "Financiering mogelijk",
+        "ValueCode": "JA",
+        "Value": "Ja"
+      }
+    ],
+    "OtherConfigurationItems": [
+      {
+        "ElementCode": "1023",
+        "Description": "Garantie",
+        "ValueCode": null,
+        "Value": "Ja"
+      }
+    ]
+  },
+  {
+    "ServiceNumber": 10059,
+    "BuildYear": 2022,
+    "RegistrationNumber": "89MSHL",
+    "Make": "Indian",
+    "Type": "Scout Bobber",
+    "Title": "Indian Scout Bobber",
+    "MainGroupCode": "H010",
+    "MainGroupFixedName": "Motoren",
+    "MainGroup": "Motoren",
+    "SubGroupCode": "12",
+    "SubGroupFixedName": "Cruiser",
+    "SubGroup": "Cruiser",
+    "Counter1": 0,
+    "Counter2": 0,
+    "Prices": {
+      "PriceType": "AskingPrice",
+      "New": null,
+      "NewIsIncVat": false,
+      "Showroom": 18790,
+      "ShowroomIsIncVat": true,
+      "Action": null,
+      "ActionIsIncVat": false,
+      "TakeAway": null,
+      "TakeAwayIsIncVat": false,
+      "Trade": null,
+      "TradeIsIncVat": false,
+      "Export": null,
+      "ExportIsIncVat": false,
+      "AllowBidding": false,
+      "MinimalBid": null
+    },
+    "Color": null,
+    "IsUsed": false,
+    "IsVatMargin": false,
+    "AdditionalInformation": "SCOUT BOBBER\r\nDe Scout Bobber is de moderne interpretatie van de iconische bobber-stijl. Gestript, in maroon metallic smoke uitgevoerd, met een scherpe styling en ongepolijste power.\r\n\r\n94 NAUWELIJKS GETEMDE PAARDENKRACHTEN\r\nDe vloeistofgekoelde, 1133 cc grote, 94 PK sterke V-Twin biedt snelle acceleratie en meer dan genoeg power voor elke situatie.\r\n\r\nICONISCH BOBBER-DESIGN\r\nSpiegels op het stuur verfijnen het silhouet zodat de motorfiets ook stilstaand er geweldig uitziet.\r\n\r\nLAGE ZIT, ALLE COMFORT\r\nHet zadel in Bobber-stijl plaatst je in een agressieve rijpositie zonder aan comfort in te boeten.\r\n\r\nPREMIUM STYLING\r\nDankzij ongekende aandacht voor details is de gestripte Scout Bobber een niet te negeren verschijning.",
+    "MultilanguageTexts": [
+      {
+        "IsDefault": true,
+        "Language": "NL",
+        "Description": "SCOUT BOBBER\r\nDe Scout Bobber is de moderne interpretatie van de iconische bobber-stijl. Gestript, in maroon metallic smoke uitgevoerd, met een scherpe styling en ongepolijste power.\r\n\r\n94 NAUWELIJKS GETEMDE PAARDENKRACHTEN\r\nDe vloeistofgekoelde, 1133 cc grote, 94 PK sterke V-Twin biedt snelle acceleratie en meer dan genoeg power voor elke situatie.\r\n\r\nICONISCH BOBBER-DESIGN\r\nSpiegels op het stuur verfijnen het silhouet zodat de motorfiets ook stilstaand er geweldig uitziet.\r\n\r\nLAGE ZIT, ALLE COMFORT\r\nHet zadel in Bobber-stijl plaatst je in een agressieve rijpositie zonder aan comfort in te boeten.\r\n\r\nPREMIUM STYLING\r\nDankzij ongekende aandacht voor details is de gestripte Scout Bobber een niet te negeren verschijning.",
+        "ConfigurationDescription": null
+      }
+    ],
+    "MainLanguage": "NL",
+    "Url": null,
+    "ConfigurationDescription": "Motor\t\r\nMotortype\tLiquid Cooled V-Twin\r\nCilinderinhoud\t1133 cc\r\n\r\nMaximaal koppel RPM\t5600 rpm\r\nMaximum koppel (95/1/EC NM)\t97 Nm\r\n\r\nStandaarduitrusting\r\n1133 cc Vloeistofgekoelde V-Twin\r\nVolledig Zwarte Uitvoering\r\nSolozadel\r\nCartridge Voorvork\r\nUSB-poort voor Opladen\r\nElektronische Brandstofinjectie\r\n\r\nElectronica\t\r\nMeters\tDigitale snelheidsmeter met digitale toerenteller, kilometerteller, dagteller, motortemperatuurmeter en brandstofverklikker",
+    "WarrantyCode": null,
+    "WarrantyDescription": null,
+    "Seller": 0,
+    "Inspections": [],
+    "Settings": {
+      "AddUnmappedFieldsAsText": true
+    },
+    "Websites": [
+      {
+        "Code": "MOC",
+        "SiteCode": "motoroccasion",
+        "Description": "MotorOccasion",
+        "TableCode": 3,
+        "CommunicationCode": 20
+      }
+    ],
+    "Images": [
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885646-zz5_E6W4uUOEEA4tKXXoh-FZWd8/dossier-mach/Indian_10059/10059-001_Indian_Scout_Bobber_Titanium_Metallic_9968_2.jpg",
+        "LastModifiedUtc": "2022-12-12T22:54:06"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885650-B3dcUqgIKpSl_PaxOICjf5GOgZo/dossier-mach/Indian_10059/10059-002_Indian_Scout_Bobber_Titanium_Metallic_9968_3.jpg",
+        "LastModifiedUtc": "2022-12-12T22:54:10"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885656-EJdRyXPF6GkKvnqY3sh4r0myMzc/dossier-mach/Indian_10059/10059-003_Indian_Scout_Bobber_Titanium_Metallic_9968_4.jpg",
+        "LastModifiedUtc": "2022-12-12T22:54:16"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885658-TYd5o_epXCn14-03KeQXcUApjvw/dossier-mach/Indian_10059/10059-004_Indian_Scout_Bobber_Titanium_Metallic_9968_5.jpg",
+        "LastModifiedUtc": "2022-12-12T22:54:18"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885659-c_NphCvL9jxdxcgdGIVpK7xO-C4/dossier-mach/Indian_10059/10059-005_Indian_Scout_Bobber_Titanium_Metallic_9968_6.jpg",
+        "LastModifiedUtc": "2022-12-12T22:54:19"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885661-ANxuQ6dM8PIP8rTsPK7-Ezwu2VU/dossier-mach/Indian_10059/10059-006_Indian_Scout_Bobber_Titanium_Metallic_9968_7.jpg",
+        "LastModifiedUtc": "2022-12-12T22:54:21"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885664-Iq9-QCNb_cMiDLsAdPBg4Jlk4-s/dossier-mach/Indian_10059/10059-007_Indian_Scout_Bobber_Titanium_Metallic_9968_8.jpg",
+        "LastModifiedUtc": "2022-12-12T22:54:24"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885668-SZWgH80AYyONNtpg7YmyrdCPZGU/dossier-mach/Indian_10059/10059-008_Indian_Scout_Bobber_Titanium_Metallic_9968_9.jpg",
+        "LastModifiedUtc": "2022-12-12T22:54:28"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885672-4dzBfOroL-8lTlDphRAnssS8Ufc/dossier-mach/Indian_10059/10059-009_Indian_Scout_Bobber_Titanium_Metallic_9968_1.jpg",
+        "LastModifiedUtc": "2022-12-12T22:54:32"
+      }
+    ],
+    "HexonConfigurationItems": [
+      {
+        "ElementCode": "H170",
+        "Description": "Cilinderinhoud (cc)",
+        "ValueCode": null,
+        "Value": "1133"
+      },
+      {
+        "ElementCode": "H140",
+        "Description": "Geschikt voor rijbewijs",
+        "ValueCode": null,
+        "Value": "A"
+      },
+      {
+        "ElementCode": "H205",
+        "Description": "Nieuw/Gebruikt",
+        "ValueCode": "NIEUW",
+        "Value": "Nieuw"
+      },
+      {
+        "ElementCode": "H208",
+        "Description": "Financiering mogelijk",
+        "ValueCode": "JA",
+        "Value": "Ja"
+      }
+    ],
+    "OtherConfigurationItems": [
+      {
+        "ElementCode": "1023",
+        "Description": "Garantie",
+        "ValueCode": null,
+        "Value": "Ja"
+      }
+    ]
+  },
+  {
+    "ServiceNumber": 10060,
+    "BuildYear": 2022,
+    "RegistrationNumber": null,
+    "Make": "Indian",
+    "Type": "Chief Dark Horse",
+    "Title": "Indian Chief Dark Horse",
+    "MainGroupCode": "H010",
+    "MainGroupFixedName": "Motoren",
+    "MainGroup": "Motoren",
+    "SubGroupCode": "12",
+    "SubGroupFixedName": "Cruiser",
+    "SubGroup": "Cruiser",
+    "Counter1": 0,
+    "Counter2": 0,
+    "Prices": {
+      "PriceType": "AskingPrice",
+      "New": null,
+      "NewIsIncVat": false,
+      "Showroom": 22790,
+      "ShowroomIsIncVat": true,
+      "Action": null,
+      "ActionIsIncVat": false,
+      "TakeAway": null,
+      "TakeAwayIsIncVat": false,
+      "Trade": null,
+      "TradeIsIncVat": false,
+      "Export": null,
+      "ExportIsIncVat": false,
+      "AllowBidding": false,
+      "MinimalBid": null
+    },
+    "Color": null,
+    "IsUsed": false,
+    "IsVatMargin": false,
+    "AdditionalInformation": "CHIEF DARK HORSE\r\nDe luchtgekoelde Thunderstroke 116 levert een machtige 162 Nm aan koppel zodat je in elk van de 6 versnellingen meer dan voldoende vermogen hebt om alles en iedereen achter je te laten.\r\n\r\nOPVALLEND DESIGN\r\nHet eenvoudige, doeltreffende design met spatborden in bobber-stijl, zichtbare achterschokdempers en een gelast frame van stalen buizen geeft deze motorfiets een opvallend uiterlijk. Een ideale basis voor een volledig aan je eigen smaak aangepaste ride.\r\n\r\nZWART TOT IN DE DETAILS\r\nEen volledig zwart uiterlijk met premium glanzend zwarte details.\r\n\r\n19” BEWERKT GEGOTEN WIEL\r\nHet 19” bewerkt gegoten voorwiel met ABS geeft de motorfiets een extra stoere uitstraling en vraagt erom de gashendel open te trekken.\r\n\r\nVOL VERTROUWEN RIJDEN.\r\nMet zijn lage zitpositie, solozadel en centraal geplaatste voetsteunen die ervoor zorgen dat je voeten zich onder je lichaam bevinden geeft de Chief elke rijder maximale controle.",
+    "MultilanguageTexts": [
+      {
+        "IsDefault": true,
+        "Language": "NL",
+        "Description": "CHIEF DARK HORSE\r\nDe luchtgekoelde Thunderstroke 116 levert een machtige 162 Nm aan koppel zodat je in elk van de 6 versnellingen meer dan voldoende vermogen hebt om alles en iedereen achter je te laten.\r\n\r\nOPVALLEND DESIGN\r\nHet eenvoudige, doeltreffende design met spatborden in bobber-stijl, zichtbare achterschokdempers en een gelast frame van stalen buizen geeft deze motorfiets een opvallend uiterlijk. Een ideale basis voor een volledig aan je eigen smaak aangepaste ride.\r\n\r\nZWART TOT IN DE DETAILS\r\nEen volledig zwart uiterlijk met premium glanzend zwarte details.\r\n\r\n19” BEWERKT GEGOTEN WIEL\r\nHet 19” bewerkt gegoten voorwiel met ABS geeft de motorfiets een extra stoere uitstraling en vraagt erom de gashendel open te trekken.\r\n\r\nVOL VERTROUWEN RIJDEN.\r\nMet zijn lage zitpositie, solozadel en centraal geplaatste voetsteunen die ervoor zorgen dat je voeten zich onder je lichaam bevinden geeft de Chief elke rijder maximale controle.",
+        "ConfigurationDescription": null
+      }
+    ],
+    "MainLanguage": "NL",
+    "Url": null,
+    "ConfigurationDescription": "Motor\t\r\nMotortype\t\t\tThunderstroke 116\r\nCilinderinhoud\t\t\t1890 cc\r\n\r\nMaximaal koppel RPM\t\t3200 rpm\r\nMaximum koppel (95/1/EC NM)\t162 Nm\r\n\r\nStandaarduitrusting\r\nABS\r\nrijmodi\r\nsleutelloos starten\r\nUSB-laadaansluiting\r\n12V-laadaansluiting\r\nuitschakelsysteem achterste cilinder",
+    "WarrantyCode": null,
+    "WarrantyDescription": null,
+    "Seller": 0,
+    "Inspections": [],
+    "Settings": {
+      "AddUnmappedFieldsAsText": true
+    },
+    "Websites": [
+      {
+        "Code": "MOC",
+        "SiteCode": "motoroccasion",
+        "Description": "MotorOccasion",
+        "TableCode": 3,
+        "CommunicationCode": 20
+      }
+    ],
+    "Images": [
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885676-qJpasHtSYCiHulwEWwkqYF7gTGY/dossier-mach/Indian_10060/10060-001_Indian_Chief_Dark_Horse_Stealth_Grey_1.jpg",
+        "LastModifiedUtc": "2022-12-12T22:54:36"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885681-LT12GKJUTBxu8luUPGfVVqPyI7Y/dossier-mach/Indian_10060/10060-002_Indian_Chief_Dark_Horse_Stealth_Grey_2.jpg",
+        "LastModifiedUtc": "2022-12-12T22:54:41"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885686-0qLdSgXgxlN0157MzkRuLWOjjQo/dossier-mach/Indian_10060/10060-003_Indian_Chief_Dark_Horse_Stealth_Grey_4.jpg",
+        "LastModifiedUtc": "2022-12-12T22:54:46"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885688-Hb9Wyiap1w0gHI-vd4LWqQfrrCU/dossier-mach/Indian_10060/10060-004_Indian_Chief_Dark_Horse_Stealth_Grey_5.jpg",
+        "LastModifiedUtc": "2022-12-12T22:54:48"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885691-jJ14r7WRPKfKF3LiKIyqPHRhxF0/dossier-mach/Indian_10060/10060-005_Indian_Chief_Dark_Horse_Stealth_Grey_6.jpg",
+        "LastModifiedUtc": "2022-12-12T22:54:51"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885695-IDZWpVdpWmjb0vl50CisVtdU0bM/dossier-mach/Indian_10060/10060-006_Indian_Chief_Dark_Horse_Stealth_Grey_7.jpg",
+        "LastModifiedUtc": "2022-12-12T22:54:55"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885699-v8B9CoTd4o0lhow9--tqPj-MxGY/dossier-mach/Indian_10060/10060-007_Indian_Chief_Dark_Horse_Stealth_Grey_8.jpg",
+        "LastModifiedUtc": "2022-12-12T22:54:59"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885702-CGdRGY-RnxtpvsJhbfCjo_iXQUM/dossier-mach/Indian_10060/10060-008_Indian_Chief_Dark_Horse_Stealth_Grey_9.jpg",
+        "LastModifiedUtc": "2022-12-12T22:55:02"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885707-04ltzh8LPdIT0IfuXRkGh1NESxg/dossier-mach/Indian_10060/10060-009_Indian_Chief_Dark_Horse_Stealth_Grey_10.jpg",
+        "LastModifiedUtc": "2022-12-12T22:55:07"
+      }
+    ],
+    "HexonConfigurationItems": [
+      {
+        "ElementCode": "H170",
+        "Description": "Cilinderinhoud (cc)",
+        "ValueCode": null,
+        "Value": "1890"
+      },
+      {
+        "ElementCode": "H140",
+        "Description": "Geschikt voor rijbewijs",
+        "ValueCode": null,
+        "Value": "A"
+      },
+      {
+        "ElementCode": "H205",
+        "Description": "Nieuw/Gebruikt",
+        "ValueCode": "NIEUW",
+        "Value": "Nieuw"
+      },
+      {
+        "ElementCode": "H208",
+        "Description": "Financiering mogelijk",
+        "ValueCode": "JA",
+        "Value": "Ja"
+      }
+    ],
+    "OtherConfigurationItems": [
+      {
+        "ElementCode": "1023",
+        "Description": "Garantie",
+        "ValueCode": null,
+        "Value": "Ja"
+      }
+    ]
+  },
+  {
+    "ServiceNumber": 10061,
+    "BuildYear": 2022,
+    "RegistrationNumber": null,
+    "Make": "Indian",
+    "Type": "Chief Bobber Dark Horse",
+    "Title": "Indian Chief Bobber Dark Horse",
+    "MainGroupCode": "H010",
+    "MainGroupFixedName": "Motoren",
+    "MainGroup": "Motoren",
+    "SubGroupCode": "12",
+    "SubGroupFixedName": "Cruiser",
+    "SubGroup": "Cruiser",
+    "Counter1": 0,
+    "Counter2": 0,
+    "Prices": {
+      "PriceType": "AskingPrice",
+      "New": null,
+      "NewIsIncVat": false,
+      "Showroom": 25190,
+      "ShowroomIsIncVat": true,
+      "Action": null,
+      "ActionIsIncVat": false,
+      "TakeAway": null,
+      "TakeAwayIsIncVat": false,
+      "Trade": null,
+      "TradeIsIncVat": false,
+      "Export": null,
+      "ExportIsIncVat": false,
+      "AllowBidding": false,
+      "MinimalBid": null
+    },
+    "Color": null,
+    "IsUsed": false,
+    "IsVatMargin": false,
+    "AdditionalInformation": "CHIEF BOBBER DARK HORSE\r\nDe luchtgekoelde Thunderstroke 116 levert een machtige 162 Nm aan koppel voor meer dan voldoende vermogen in elk van de 6 versnellingen. Deze motor valt op en heeft een voor de rijder verslavend karakter.\r\n\r\nZWART TOT IN DE DETAILS\r\nEen volledig zwart uiterlijk met premium glanzend zwarte details.\r\n\r\nHEERS OVER DE WEG\r\nHet lage solozadel geeft je het gevoel te heersen over de weg, terwijl de naar voren geplaatste voetsteunen en het mini ape-stuur ervoor zorgen dat je met de voeten vooruit en de handen in de wind kunt rijden.\r\n\r\nICONISCH DESIGN\r\nGeworteld in traditie, ontworpen voor het hier en nu. Het iconische War Bonnet-logo van Indian Motorcycle is een eerbetoon aan de originele Chief.",
+    "MultilanguageTexts": [
+      {
+        "IsDefault": true,
+        "Language": "NL",
+        "Description": "CHIEF BOBBER DARK HORSE\r\nDe luchtgekoelde Thunderstroke 116 levert een machtige 162 Nm aan koppel voor meer dan voldoende vermogen in elk van de 6 versnellingen. Deze motor valt op en heeft een voor de rijder verslavend karakter.\r\n\r\nZWART TOT IN DE DETAILS\r\nEen volledig zwart uiterlijk met premium glanzend zwarte details.\r\n\r\nHEERS OVER DE WEG\r\nHet lage solozadel geeft je het gevoel te heersen over de weg, terwijl de naar voren geplaatste voetsteunen en het mini ape-stuur ervoor zorgen dat je met de voeten vooruit en de handen in de wind kunt rijden.\r\n\r\nICONISCH DESIGN\r\nGeworteld in traditie, ontworpen voor het hier en nu. Het iconische War Bonnet-logo van Indian Motorcycle is een eerbetoon aan de originele Chief.",
+        "ConfigurationDescription": null
+      }
+    ],
+    "MainLanguage": "NL",
+    "Url": null,
+    "ConfigurationDescription": "Motor\t\r\nMotortype\t\t\tThunderstroke 116\r\nCilinderinhoud\t\t\t1890 cc\r\n\r\nMaximaal koppel RPM\t\t3200 rpm\r\nMaximum koppel (95/1/EC NM)\t162 Nm\r\n\r\nStandaarduitrusting\t\r\nABS\r\nrijmodi\r\nsleutelloos starten\r\nUSB-laadaansluiting\r\n12V-laadaansluiting\r\nuitschakelsysteem achterste cilinder\r\n\r\nElectronica\t\r\nMeters\tSnelheidsmeter, toerenteller, kilometerteller, brandstofmeter, kompas, buitentemperatuurmeter, indicator ingeschakelde versnelling\r\n\r\nRide Command®\r\nRond 4” Ride Command®-display. Touchscreen inclusief realtime klok; buitentemperatuur; rijrichting; weergave van audio-informatie; navigatiesysteem met kaartweergave; Bluetooth-status van telefoon en geselecteerde headset; voertuigstatus (spanning, draaiuren motor, olie verversen); voertuiginformatie (snelheid, actieradius, toerental, ingeschakelde versnelling); gegevens actuele rit (afstand, rijtijd, stoptijd, hoogte, hoogteverschillen); dagtellers; rijmodusselectie; helderheid van het scherm; uitlezen van storingscodes van het voertuig.",
+    "WarrantyCode": null,
+    "WarrantyDescription": null,
+    "Seller": 0,
+    "Inspections": [],
+    "Settings": {
+      "AddUnmappedFieldsAsText": true
+    },
+    "Websites": [
+      {
+        "Code": "MOC",
+        "SiteCode": "motoroccasion",
+        "Description": "MotorOccasion",
+        "TableCode": 3,
+        "CommunicationCode": 20
+      }
+    ],
+    "Images": [
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885711-1VmbzcGRJ18hOqTRfnMFx2CtJv8/dossier-mach/Indian_10061/10061-001_Indian_Chief_Bobber_Dark_Horse_Black_Smoke_1.jpg",
+        "LastModifiedUtc": "2022-12-12T22:55:11"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885716-4O7Um_UQxV3fWwDtO4B2T3WZWho/dossier-mach/Indian_10061/10061-002_Indian_Chief_Bobber_Dark_Horse_Black_Smoke_11.jpg",
+        "LastModifiedUtc": "2022-12-12T22:55:16"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885721-dy9_e6Kzh_KsDtJqK-LCvA1iI24/dossier-mach/Indian_10061/10061-003_Indian_Chief_Bobber_Dark_Horse_Black_Smoke_4.jpg",
+        "LastModifiedUtc": "2022-12-12T22:55:21"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885727-hrW7PCgiryOWWc4oG6ychtmBbck/dossier-mach/Indian_10061/10061-004_Indian_Chief_Bobber_Dark_Horse_Black_Smoke_5.jpg",
+        "LastModifiedUtc": "2022-12-12T22:55:27"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885733-gvUi2R_r6g0oReoOfBUFgffA_lg/dossier-mach/Indian_10061/10061-005_Indian_Chief_Bobber_Dark_Horse_Black_Smoke_6.jpg",
+        "LastModifiedUtc": "2022-12-12T22:55:33"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885736-NhI2RiMYYFyxrzqoDuBBaR2GNbs/dossier-mach/Indian_10061/10061-006_Indian_Chief_Bobber_Dark_Horse_Black_Smoke_7.jpg",
+        "LastModifiedUtc": "2022-12-12T22:55:36"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885739-D4iV5SmgP9R6n410otxGmoLx9FQ/dossier-mach/Indian_10061/10061-007_Indian_Chief_Bobber_Dark_Horse_Black_Smoke_8.jpg",
+        "LastModifiedUtc": "2022-12-12T22:55:39"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885743-wRiDYW6m1vUB2ckh0GxNx3HDVHU/dossier-mach/Indian_10061/10061-008_Indian_Chief_Bobber_Dark_Horse_Black_Smoke_9.jpg",
+        "LastModifiedUtc": "2022-12-12T22:55:43"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885747-md1boB7-CgA0N3Pjd1Dt_XSupgk/dossier-mach/Indian_10061/10061-009_Indian_Chief_Bobber_Dark_Horse_Black_Smoke_10.jpg",
+        "LastModifiedUtc": "2022-12-12T22:55:47"
+      }
+    ],
+    "HexonConfigurationItems": [
+      {
+        "ElementCode": "H170",
+        "Description": "Cilinderinhoud (cc)",
+        "ValueCode": null,
+        "Value": "1890"
+      },
+      {
+        "ElementCode": "H140",
+        "Description": "Geschikt voor rijbewijs",
+        "ValueCode": null,
+        "Value": "A"
+      },
+      {
+        "ElementCode": "H205",
+        "Description": "Nieuw/Gebruikt",
+        "ValueCode": "NIEUW",
+        "Value": "Nieuw"
+      },
+      {
+        "ElementCode": "H208",
+        "Description": "Financiering mogelijk",
+        "ValueCode": "JA",
+        "Value": "Ja"
+      }
+    ],
+    "OtherConfigurationItems": [
+      {
+        "ElementCode": "1023",
+        "Description": "Garantie",
+        "ValueCode": null,
+        "Value": "Ja"
+      }
+    ]
+  },
+  {
+    "ServiceNumber": 10063,
+    "BuildYear": 2022,
+    "RegistrationNumber": null,
+    "Make": "Indian",
+    "Type": "Scout Bobber Twenty Limited",
+    "Title": "Indian Scout Bobber Twenty Limited",
+    "MainGroupCode": "H010",
+    "MainGroupFixedName": "Motoren",
+    "MainGroup": "Motoren",
+    "SubGroupCode": "12",
+    "SubGroupFixedName": "Cruiser",
+    "SubGroup": "Cruiser",
+    "Counter1": 0,
+    "Counter2": 0,
+    "Prices": {
+      "PriceType": "AskingPrice",
+      "New": null,
+      "NewIsIncVat": false,
+      "Showroom": 19690,
+      "ShowroomIsIncVat": true,
+      "Action": null,
+      "ActionIsIncVat": false,
+      "TakeAway": null,
+      "TakeAwayIsIncVat": false,
+      "Trade": null,
+      "TradeIsIncVat": false,
+      "Export": null,
+      "ExportIsIncVat": false,
+      "AllowBidding": false,
+      "MinimalBid": null
+    },
+    "Color": null,
+    "IsUsed": false,
+    "IsVatMargin": false,
+    "AdditionalInformation": "OLD SCHOOL BOBBER LOOKS. MODERNE TECHNOLOGIE.\r\nMet moderne power en nostalgische styling in één ride verwijst het design van de Scout Bobber Twenty naar de originele Scout met zijn pure, minimalistische Bobber-styling met een dosis klassiek erfgoed.\r\n\r\nEEN MODERNE KIJK OP EEN KLASSIEKER\r\nDe Scout Bobber Twenty is geïnspireerd op de naamgever en ziet er niet voor niets zo gemeen uit. Met een mix van verchroomde en zwarte afwerkingsdetails en spaakwielen laat deze ride de wereld weten dat het je menens is.\r\n\r\n95 PAARDEN. ONTKETEND.\r\nDe vloeistofgekoelde, 1133 cc, 95-pk V-twin levert krachtige acceleraties en het vermogen om iedereen in te halen, waar dan ook.\r\n\r\nGEDRONGEN PROFIEL\r\nHet tweekleurige zadel in bobberstijl geeft je het gevoel te heersen over de weg, terwijl de naar voren geplaatste voetsteunen en het mini ape-stuur ervoor zorgen dat je met de voeten vooruit en de handen in de wind kunt rijden.",
+    "MultilanguageTexts": [
+      {
+        "IsDefault": true,
+        "Language": "NL",
+        "Description": "OLD SCHOOL BOBBER LOOKS. MODERNE TECHNOLOGIE.\r\nMet moderne power en nostalgische styling in één ride verwijst het design van de Scout Bobber Twenty naar de originele Scout met zijn pure, minimalistische Bobber-styling met een dosis klassiek erfgoed.\r\n\r\nEEN MODERNE KIJK OP EEN KLASSIEKER\r\nDe Scout Bobber Twenty is geïnspireerd op de naamgever en ziet er niet voor niets zo gemeen uit. Met een mix van verchroomde en zwarte afwerkingsdetails en spaakwielen laat deze ride de wereld weten dat het je menens is.\r\n\r\n95 PAARDEN. ONTKETEND.\r\nDe vloeistofgekoelde, 1133 cc, 95-pk V-twin levert krachtige acceleraties en het vermogen om iedereen in te halen, waar dan ook.\r\n\r\nGEDRONGEN PROFIEL\r\nHet tweekleurige zadel in bobberstijl geeft je het gevoel te heersen over de weg, terwijl de naar voren geplaatste voetsteunen en het mini ape-stuur ervoor zorgen dat je met de voeten vooruit en de handen in de wind kunt rijden.",
+        "ConfigurationDescription": null
+      }
+    ],
+    "MainLanguage": "NL",
+    "Url": null,
+    "ConfigurationDescription": "Motor\t\r\nMotortype\t\t\tLiquid cooled V-Twin\r\nCilinderinhoud\t\t\t1133 cc\r\n\r\nMaximaal koppel RPM\t\t5600 rpm\r\nMaximum koppel (95/1/EC NM)\t97 Nm\r\n\r\nStandaarduitrusting\r\n1133 cc Vloeistofgekoelde V-Twin\r\nChromen Uitvoering\r\nCartridge Voorvork\r\nUSB-poort voor Opladen\r\nElektronische Brandstofinjectie",
+    "WarrantyCode": null,
+    "WarrantyDescription": null,
+    "Seller": 0,
+    "Inspections": [],
+    "Settings": {
+      "AddUnmappedFieldsAsText": true
+    },
+    "Websites": [
+      {
+        "Code": "MOC",
+        "SiteCode": "motoroccasion",
+        "Description": "MotorOccasion",
+        "TableCode": 3,
+        "CommunicationCode": 20
+      }
+    ],
+    "Images": [
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885788-ZBDYefIJn-aAbLTSXnL-edatRQg/dossier-mach/Indian_10063/10063-001_Indian_Scout_Bobber_Twenty_Limited_Stealth_grey_5817_1.jpg",
+        "LastModifiedUtc": "2022-12-12T22:56:28"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885790-tqkg7_0AXu4mIzbZ9vWhOeUKSHw/dossier-mach/Indian_10063/10063-002_Indian_Scout_Bobber_Twenty_Limited_Stealth_grey_5817_2.jpg",
+        "LastModifiedUtc": "2022-12-12T22:56:30"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885792-l5PVin1kldPxNJdcbmXK8UvXC4A/dossier-mach/Indian_10063/10063-003_Indian_Scout_Bobber_Twenty_Limited_Stealth_grey_5817_3.jpg",
+        "LastModifiedUtc": "2022-12-12T22:56:32"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885797-bj7MWr9h0cfTJh3xw7OQPfwWM2A/dossier-mach/Indian_10063/10063-004_Indian_Scout_Bobber_Twenty_Limited_Stealth_grey_5817_4.jpg",
+        "LastModifiedUtc": "2022-12-12T22:56:37"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885802-TE3Dr5q4z_fVbOV3H-OLH0xUusY/dossier-mach/Indian_10063/10063-005_Indian_Scout_Bobber_Twenty_Limited_Stealth_grey_5817_5.jpg",
+        "LastModifiedUtc": "2022-12-12T22:56:42"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885805-FUcFHqjalf8VtmshqYqD2wsfLac/dossier-mach/Indian_10063/10063-006_Indian_Scout_Bobber_Twenty_Limited_Stealth_grey_5817_6.jpg",
+        "LastModifiedUtc": "2022-12-12T22:56:45"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885808-CiSP3e6CVUPuhmTU2rV8ztjRpyU/dossier-mach/Indian_10063/10063-007_Indian_Scout_Bobber_Twenty_Limited_Stealth_grey_5817_7.jpg",
+        "LastModifiedUtc": "2022-12-12T22:56:48"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885812-N4TgUucskZiW2Ugtjf_OBPosVpw/dossier-mach/Indian_10063/10063-008_Indian_Scout_Bobber_Twenty_Limited_Stealth_grey_5817_8.jpg",
+        "LastModifiedUtc": "2022-12-12T22:56:52"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1670885814-Y-5VzB0CcDiu2AQLgzWRObw2Z9g/dossier-mach/Indian_10063/10063-009_Indian_Scout_Bobber_Twenty_Limited_Stealth_grey_5817_9.jpg",
+        "LastModifiedUtc": "2022-12-12T22:56:54"
+      }
+    ],
+    "HexonConfigurationItems": [
+      {
+        "ElementCode": "H170",
+        "Description": "Cilinderinhoud (cc)",
+        "ValueCode": null,
+        "Value": "1133"
+      },
+      {
+        "ElementCode": "H140",
+        "Description": "Geschikt voor rijbewijs",
+        "ValueCode": null,
+        "Value": "A"
+      },
+      {
+        "ElementCode": "H205",
+        "Description": "Nieuw/Gebruikt",
+        "ValueCode": "NIEUW",
+        "Value": "Nieuw"
+      },
+      {
+        "ElementCode": "H208",
+        "Description": "Financiering mogelijk",
+        "ValueCode": "JA",
+        "Value": "Ja"
+      }
+    ],
+    "OtherConfigurationItems": [
+      {
+        "ElementCode": "1023",
+        "Description": "Garantie",
+        "ValueCode": null,
+        "Value": "Ja"
+      }
+    ]
+  },
+  {
+    "ServiceNumber": 10064,
+    "BuildYear": 2022,
+    "RegistrationNumber": "21MSHD",
+    "Make": "Energica",
+    "Type": "Experia",
+    "Title": "Energica Experia",
+    "MainGroupCode": "H010",
+    "MainGroupFixedName": "Motoren",
+    "MainGroup": "Motoren",
+    "SubGroupCode": "14",
+    "SubGroupFixedName": "Elektrisch",
+    "SubGroup": "Elektrisch",
+    "Counter1": 0,
+    "Counter2": 0,
+    "Prices": {
+      "PriceType": "AskingPrice",
+      "New": null,
+      "NewIsIncVat": false,
+      "Showroom": 31658,
+      "ShowroomIsIncVat": true,
+      "Action": null,
+      "ActionIsIncVat": false,
+      "TakeAway": null,
+      "TakeAwayIsIncVat": false,
+      "Trade": null,
+      "TradeIsIncVat": false,
+      "Export": null,
+      "ExportIsIncVat": false,
+      "AllowBidding": false,
+      "MinimalBid": null
+    },
+    "Color": null,
+    "IsUsed": false,
+    "IsVatMargin": false,
+    "AdditionalInformation": null,
+    "MultilanguageTexts": [],
+    "MainLanguage": "NL",
+    "Url": null,
+    "ConfigurationDescription": null,
+    "WarrantyCode": null,
+    "WarrantyDescription": null,
+    "Seller": 0,
+    "Inspections": [],
+    "Settings": {
+      "AddUnmappedFieldsAsText": true
+    },
+    "Websites": [
+      {
+        "Code": "MOC",
+        "SiteCode": "motoroccasion",
+        "Description": "MotorOccasion",
+        "TableCode": 3,
+        "CommunicationCode": 20
+      }
+    ],
+    "Images": [
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1675897202-hBuvbaisp1_SzVCpbNsEiPdhk-c/dossier-mach/Energica_10064/10064-001_Experia_MM_0399_mod.jpg",
+        "LastModifiedUtc": "2023-02-08T23:00:02"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1675897203-prXgwKKmVM_3ihSnmFQ-Sf1uq24/dossier-mach/Energica_10064/10064-002_Experia_MM_0091.jpg",
+        "LastModifiedUtc": "2023-02-08T23:00:03"
+      },
+      {
+        "Url": "https://overallcloud.azureedge.net/bikebarn/1675897205-sXii9fpLFK1M1hRIBBd3c7Ne9oI/dossier-mach/Energica_10064/10064-003_Experia_ANN7587.jpg",
+        "LastModifiedUtc": "2023-02-08T23:00:05"
+      }
+    ],
+    "HexonConfigurationItems": [
+      {
+        "ElementCode": "H161",
+        "Description": "Vermogen (kW)",
+        "ValueCode": null,
+        "Value": "KILOM"
+      },
+      {
+        "ElementCode": "H160",
+        "Description": "Vermogen (pk)",
+        "ValueCode": null,
+        "Value": "80"
+      },
+      {
+        "ElementCode": "H140",
+        "Description": "Geschikt voor rijbewijs",
+        "ValueCode": null,
+        "Value": "A"
+      },
+      {
+        "ElementCode": "H205",
+        "Description": "Nieuw/Gebruikt",
+        "ValueCode": "NIEUW",
+        "Value": "Nieuw"
+      },
+      {
+        "ElementCode": "H208",
+        "Description": "Financiering mogelijk",
+        "ValueCode": "JA",
+        "Value": "Ja"
+      }
+    ],
+    "OtherConfigurationItems": [
+      {
+        "ElementCode": "1023",
+        "Description": "Garantie",
+        "ValueCode": null,
+        "Value": "Ja"
+      }
+    ]
+  }
+]
+}

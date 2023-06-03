@@ -1,9 +1,356 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+"occasions": [
+  {
+    "ServiceNumber": 10012,
+    "BuildYear": 2022,
+    "RegistrationNumber": null,
+    "Make": "Energica",
+    "Type": "Ego+",
+    "Title": "Energica Ego+",
+    "MainGroupCode": "H010",
+    "MainGroupFixedName": "Motoren",
+    "MainGroup": "Motoren",
+    "SubGroupCode": "14",
+    "SubGroupFixedName": "Elektrisch",
+    "SubGroup": "Elektrisch",
+    "Counter1": 10,
+    "Counter2": 10,
+    "Prices": {
+      "PriceType": "FixedPrice",
+      "New": null,
+      "NewIsIncVat": false,
+      "Showroom": 31780,
+      "ShowroomIsIncVat": true,
+      "Action": null,
+      "ActionIsIncVat": false,
+      "TakeAway": null,
+      "TakeAwayIsIncVat": false,
+      "Trade": null,
+      "TradeIsIncVat": false,
+      "Export": null,
+      "ExportIsIncVat": false,
+      "AllowBidding": false,
+      "MinimalBid": null
+    },
+    "Color": null,
+    "IsUsed": false,
+    "IsVatMargin": false,
+    "AdditionalInformation": "AdditionalInformation",
+    "MainLanguage": "NL",
+    "Url": null,
+    "ConfigurationDescription": "ConfigurationDescription",
+    "WarrantyCode": "JA",
+    "WarrantyDescription": "Ja",
+    "Images": [
+      {
+        "Url": "https://overallcloud",
+        "LastModifiedUtc": "2022-05-12T12:15:36"
+      }
+     ],
+    "HexonConfigurationItems": [
+      {
+        "ElementCode": "H161",
+        "Description": "Vermogen (kW)",
+        "ValueCode": null,
+        "Value": "126"
+      },
+      {
+        "ElementCode": "H160",
+        "Description": "Vermogen (pk)",
+        "ValueCode": null,
+        "Value": "171"
+      },
+      {
+        "ElementCode": "H140",
+        "Description": "Geschikt voor rijbewijs",
+        "ValueCode": null,
+        "Value": "A"
+      },
+      {
+        "ElementCode": "H205",
+        "Description": "Nieuw/Gebruikt",
+        "ValueCode": "NIEUW",
+        "Value": "Nieuw"
+      },
+      {
+        "ElementCode": "H208",
+        "Description": "Financiering mogelijk",
+        "ValueCode": "JA",
+        "Value": "Ja"
+      }
+    ],
+    "OtherConfigurationItems": [
+      {
+        "ElementCode": "1023",
+        "Description": "Garantie",
+        "ValueCode": null,
+        "Value": "Ja"
+      }
+    ]
+  },
+  {
+    "ServiceNumber": 10013,
+    "BuildYear": 2022,
+    "RegistrationNumber": null,
+    "Make": "Energica",
+    "Type": "Eva Ribelle RS",
+    "Title": "Energica Eva Ribelle RS",
+    "MainGroupCode": "H010",
+    "MainGroupFixedName": "Motoren",
+    "MainGroup": "Motoren",
+    "SubGroupCode": "14",
+    "SubGroupFixedName": "Elektrisch",
+    "SubGroup": "Elektrisch",
+    "Counter1": 10,
+    "Counter2": 10,
+    "Prices": {
+      "PriceType": "FixedPrice",
+      "New": null,
+      "NewIsIncVat": false,
+      "Showroom": 33486,
+      "ShowroomIsIncVat": true,
+      "Action": null,
+      "ActionIsIncVat": false,
+      "TakeAway": null,
+      "TakeAwayIsIncVat": false,
+      "Trade": null,
+      "TradeIsIncVat": false,
+      "Export": null,
+      "ExportIsIncVat": false,
+      "AllowBidding": false,
+      "MinimalBid": null
+    },
+    "Color": null,
+    "IsUsed": false,
+    "IsVatMargin": false,
+    "AdditionalInformation": "AdditionalInformation",
+    "MainLanguage": "NL",
+    "Url": null,
+    "ConfigurationDescription": "ConfigurationDescription",
+    "WarrantyCode": null,
+    "WarrantyDescription": null,
+    "Images": [
+      {
+        "Url": "https://overallcloud",
+        "LastModifiedUtc": "2022-07-16T08:27:20"
+      }
+    ],
+    "HexonConfigurationItems": [
+      {
+        "ElementCode": "H161",
+        "Description": "Vermogen (kW)",
+        "ValueCode": null,
+        "Value": "126"
+      },
+      {
+        "ElementCode": "H160",
+        "Description": "Vermogen (pk)",
+        "ValueCode": null,
+        "Value": "171"
+      },
+      {
+        "ElementCode": "H140",
+        "Description": "Geschikt voor rijbewijs",
+        "ValueCode": null,
+        "Value": "A"
+      },
+      {
+        "ElementCode": "H205",
+        "Description": "Nieuw/Gebruikt",
+        "ValueCode": "NIEUW",
+        "Value": "Nieuw"
+      },
+      {
+        "ElementCode": "H208",
+        "Description": "Financiering mogelijk",
+        "ValueCode": "JA",
+        "Value": "Ja"
+      }
+    ],
+    "OtherConfigurationItems": [
+      {
+        "ElementCode": "1023",
+        "Description": "Garantie",
+        "ValueCode": null,
+        "Value": "Ja"
+      }
+    ]
+  },
+  {
+    "ServiceNumber": 10018,
+    "BuildYear": 2022,
+    "RegistrationNumber": "21MRVN",
+    "Make": "Energica",
+    "Type": "EsseEsse9+ RS",
+    "Title": "Energica EsseEsse9+ RS",
+    "MainGroupCode": "H010",
+    "MainGroupFixedName": "Motoren",
+    "MainGroup": "Motoren",
+    "SubGroupCode": "14",
+    "SubGroupFixedName": "Elektrisch",
+    "SubGroup": "Elektrisch",
+    "Counter1": 10,
+    "Counter2": 10,
+    "Prices": {
+      "PriceType": "FixedPrice",
+      "New": null,
+      "NewIsIncVat": false,
+      "Showroom": 34314,
+      "ShowroomIsIncVat": true,
+      "Action": null,
+      "ActionIsIncVat": false,
+      "TakeAway": null,
+      "TakeAwayIsIncVat": false,
+      "Trade": null,
+      "TradeIsIncVat": false,
+      "Export": null,
+      "ExportIsIncVat": false,
+      "AllowBidding": false,
+      "MinimalBid": null
+    },
+    "Color": null,
+    "IsUsed": false,
+    "IsVatMargin": false,
+    "AdditionalInformation": "AdditionalInformation",
+    "MainLanguage": "NL",
+    "Url": null,
+    "ConfigurationDescription": "ConfigurationDescription",
+    "WarrantyCode": null,
+    "WarrantyDescription": null,
+    "Images": [
+      {
+        "Url": "https://overallcloud",
+        "LastModifiedUtc": "2022-05-12T12:36:58"
+      }
+],
+    "HexonConfigurationItems": [
+      {
+        "ElementCode": "H161",
+        "Description": "Vermogen (kW)",
+        "ValueCode": null,
+        "Value": "80"
+      },
+      {
+        "ElementCode": "H160",
+        "Description": "Vermogen (pk)",
+        "ValueCode": null,
+        "Value": "109"
+      },
+      {
+        "ElementCode": "H140",
+        "Description": "Geschikt voor rijbewijs",
+        "ValueCode": null,
+        "Value": "A"
+      },
+      {
+        "ElementCode": "H205",
+        "Description": "Nieuw/Gebruikt",
+        "ValueCode": "NIEUW",
+        "Value": "Nieuw"
+      },
+      {
+        "ElementCode": "H208",
+        "Description": "Financiering mogelijk",
+        "ValueCode": "JA",
+        "Value": "Ja"
+      }
+    ],
+    "OtherConfigurationItems": [
+      {
+        "ElementCode": "1023",
+        "Description": "Garantie",
+        "ValueCode": null,
+        "Value": "Ja"
+      }
+    ]
+  },
+  {
+    "ServiceNumber": 10022,
+    "BuildYear": 2022,
+    "RegistrationNumber": null,
+    "Make": "Energica",
+    "Type": "EsseEsse9+",
+    "Title": "Energica EsseEsse9+",
+    "MainGroupCode": "H010",
+    "MainGroupFixedName": "Motoren",
+    "MainGroup": "Motoren",
+    "SubGroupCode": "14",
+    "SubGroupFixedName": "Elektrisch",
+    "SubGroup": "Elektrisch",
+    "Counter1": 0,
+    "Counter2": 0,
+    "Prices": {
+      "PriceType": "FixedPrice",
+      "New": null,
+      "NewIsIncVat": false,
+      "Showroom": 27944,
+      "ShowroomIsIncVat": true,
+      "Action": null,
+      "ActionIsIncVat": false,
+      "TakeAway": null,
+      "TakeAwayIsIncVat": false,
+      "Trade": null,
+      "TradeIsIncVat": false,
+      "Export": null,
+      "ExportIsIncVat": false,
+      "AllowBidding": false,
+      "MinimalBid": null
+    },
+    "Color": null,
+    "IsUsed": false,
+    "IsVatMargin": false,
+    "AdditionalInformation": "AdditionalInformation",
+    "MainLanguage": "NL",
+    "Url": null,
+    "ConfigurationDescription": "ConfigurationDescription",
+    "WarrantyCode": null,
+    "WarrantyDescription": null,
+    "Images": [
+      {
+        "Url": "https://overallcloud",
+        "LastModifiedUtc": "2022-05-12T12:38:15"
+      }
+    ],
+    "HexonConfigurationItems": [
+      {
+        "ElementCode": "H161",
+        "Description": "Vermogen (kW)",
+        "ValueCode": null,
+        "Value": "80"
+      },
+      {
+        "ElementCode": "H160",
+        "Description": "Vermogen (pk)",
+        "ValueCode": null,
+        "Value": "109"
+      },
+      {
+        "ElementCode": "H140",
+        "Description": "Geschikt voor rijbewijs",
+        "ValueCode": null,
+        "Value": "A"
+      },
+      {
+        "ElementCode": "H205",
+        "Description": "Nieuw/Gebruikt",
+        "ValueCode": "NIEUW",
+        "Value": "Nieuw"
+      },
+      {
+        "ElementCode": "H208",
+        "Description": "Financiering mogelijk",
+        "ValueCode": "JA",
+        "Value": "Ja"
+      }
+    ],
+    "OtherConfigurationItems": [
+      {
+        "ElementCode": "1023",
+        "Description": "Garantie",
+        "ValueCode": null,
+        "Value": "Ja"
+      }
+    ]
+  }
+]
 }
